@@ -1,0 +1,6641 @@
+{
+    "kyle finnegan": [
+        "kyle-finnegan-19910904",
+        [
+            "RELIEF_PITCHER"
+        ],
+        640448
+    ],
+    "alex vesia": [
+        "alex-vesia-19960411",
+        [
+            "RELIEF_PITCHER"
+        ],
+        681911
+    ],
+    "ha-seong kim": [
+        "ha-seong-kim-19951017",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        673490
+    ],
+    "jeimer candelario": [
+        "jeimer-candelario-19931124",
+        [
+            "FIRST_BASE",
+            "THIRD_BASE"
+        ],
+        600869
+    ],
+    "seby zavala": [
+        "seby-zavala-19930828",
+        [
+            "CATCHER"
+        ],
+        664874
+    ],
+    "ronald acuna": [
+        "ronald-acuna-jr-19971218",
+        [
+            "OUTFIELD"
+        ],
+        660670
+    ],
+    "kolton ingram": [
+        "kolton-ingram-19961021",
+        [
+            "RELIEF_PITCHER"
+        ],
+        688427
+    ],
+    "jose urquidy": [
+        "jose-urquidy-19950501",
+        [
+            "STARTING_PITCHER"
+        ],
+        664353
+    ],
+    "jacob stallings": [
+        "jacob-stallings-19891222",
+        [
+            "CATCHER"
+        ],
+        607732
+    ],
+    "jordan walker": [
+        "jordan-walker-20020522",
+        [
+            "OUTFIELD"
+        ],
+        691023
+    ],
+    "masataka yoshida": [
+        "masataka-yoshida-19930715",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        807799
+    ],
+    "dylan lee": [
+        "dylan-lee-19940801",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669276
+    ],
+    "francisco mejia": [
+        "francisco-mejia-19951027",
+        [
+            "CATCHER"
+        ],
+        642336
+    ],
+    "bailey ober": [
+        "bailey-ober-19950712",
+        [
+            "STARTING_PITCHER"
+        ],
+        641927
+    ],
+    "john schreiber": [
+        "john-schreiber-19940305",
+        [
+            "RELIEF_PITCHER"
+        ],
+        670167
+    ],
+    "mychal givens": [
+        "mychal-givens-19900513",
+        [
+            "RELIEF_PITCHER"
+        ],
+        571710
+    ],
+    "willy adames": [
+        "willy-adames-19950902",
+        [
+            "SHORTSTOP"
+        ],
+        642715
+    ],
+    "jose caballero": [
+        "jose-caballero-19960830",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP"
+        ],
+        676609
+    ],
+    "austin gomber": [
+        "austin-gomber-19931123",
+        [
+            "STARTING_PITCHER"
+        ],
+        596295
+    ],
+    "amir garrett": [
+        "amir-garrett-19920503",
+        [
+            "RELIEF_PITCHER"
+        ],
+        607237
+    ],
+    "joc pederson": [
+        "joc-pederson-19920421",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        592626
+    ],
+    "casey legumina": [
+        "casey-legumina-19970619",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        668984
+    ],
+    "juan then": [
+        "juan-then-20000207",
+        [
+            "RELIEF_PITCHER"
+        ],
+        672730
+    ],
+    "harrison bader": [
+        "harrison-bader-19940603",
+        [
+            "OUTFIELD"
+        ],
+        664056
+    ],
+    "jimmy lambert": [
+        "jimmy-lambert-19941118",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669424
+    ],
+    "brandon marsh": [
+        "brandon-marsh-19971218",
+        [
+            "OUTFIELD"
+        ],
+        669016
+    ],
+    "mason thompson": [
+        "mason-thompson-19980220",
+        [
+            "RELIEF_PITCHER"
+        ],
+        666168
+    ],
+    "ramon urias": [
+        "ramon-urias-19940603",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        602104
+    ],
+    "randy arozarena": [
+        "randy-arozarena-19950228",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        668227
+    ],
+    "griffin canning": [
+        "griffin-canning-19960511",
+        [
+            "STARTING_PITCHER"
+        ],
+        656288
+    ],
+    "jake cave": [
+        "jake-cave-19921204",
+        [
+            "FIRST_BASE",
+            "OUTFIELD"
+        ],
+        595909
+    ],
+    "jose urena": [
+        "jose-urena-19910912",
+        [
+            "RELIEF_PITCHER"
+        ],
+        570632
+    ],
+    "paul blackburn": [
+        "paul-blackburn-19931204",
+        [
+            "STARTING_PITCHER"
+        ],
+        621112
+    ],
+    "keaton winn": [
+        "keaton-winn-19980220",
+        [
+            "RELIEF_PITCHER"
+        ],
+        676775
+    ],
+    "tommy kahnle": [
+        "tommy-kahnle-19890807",
+        [
+            "RELIEF_PITCHER"
+        ],
+        592454
+    ],
+    "ceddanne rafaela": [
+        "ceddanne-rafaela-20000918",
+        [
+            "OUTFIELD"
+        ],
+        678882
+    ],
+    "esteury ruiz": [
+        "esteury-ruiz-19990215",
+        [
+            "OUTFIELD"
+        ],
+        665923
+    ],
+    "mike yastrzemski": [
+        "mike-yastrzemski-19900823",
+        [
+            "OUTFIELD"
+        ],
+        573262
+    ],
+    "jhony brito": [
+        "jhony-brito-19980217",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        666745
+    ],
+    "riley greene": [
+        "riley-greene-20000928",
+        [
+            "OUTFIELD"
+        ],
+        682985
+    ],
+    "darick hall": [
+        "darick-hall-19950725",
+        [
+            "FIRST_BASE"
+        ],
+        669742
+    ],
+    "joey krehbiel": [
+        "joey-krehbiel-19921220",
+        [
+            "RELIEF_PITCHER"
+        ],
+        607216
+    ],
+    "bo naylor": [
+        "bo-naylor-20000221",
+        [
+            "CATCHER"
+        ],
+        666310
+    ],
+    "keibert ruiz": [
+        "keibert-ruiz-19980720",
+        [
+            "CATCHER",
+            "DESIGNATED_HITTER"
+        ],
+        660688
+    ],
+    "william contreras": [
+        "william-contreras-19971224",
+        [
+            "CATCHER",
+            "DESIGNATED_HITTER"
+        ],
+        661388
+    ],
+    "noah davis": [
+        "noah-davis-19970422",
+        [
+            "STARTING_PITCHER"
+        ],
+        663562
+    ],
+    "pierce johnson": [
+        "pierce-johnson-19910510",
+        [
+            "RELIEF_PITCHER"
+        ],
+        572955
+    ],
+    "andrew knizner": [
+        "andrew-knizner-19950203",
+        [
+            "CATCHER"
+        ],
+        668800
+    ],
+    "nick sandlin": [
+        "nick-sandlin-19970110",
+        [
+            "RELIEF_PITCHER"
+        ],
+        680704
+    ],
+    "alec marsh": [
+        "alec-marsh-19980514",
+        [
+            "STARTING_PITCHER"
+        ],
+        679525
+    ],
+    "brett phillips": [
+        "brett-phillips-19940530",
+        [
+            "OUTFIELD"
+        ],
+        621433
+    ],
+    "jose berrios": [
+        "jose-berrios-19940527",
+        [
+            "STARTING_PITCHER"
+        ],
+        621244
+    ],
+    "ranger suarez": [
+        "ranger-suarez-19950826",
+        [
+            "STARTING_PITCHER"
+        ],
+        624133
+    ],
+    "nicky lopez": [
+        "nicky-lopez-19950313",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        670032
+    ],
+    "connor joe": [
+        "connor-joe-19920816",
+        [
+            "FIRST_BASE",
+            "OUTFIELD"
+        ],
+        656582
+    ],
+    "victor robles": [
+        "victor-robles-19970519",
+        [
+            "OUTFIELD"
+        ],
+        645302
+    ],
+    "dauri moreta": [
+        "dauri-moreta-19960415",
+        [
+            "RELIEF_PITCHER"
+        ],
+        664294
+    ],
+    "james outman": [
+        "james-outman-19970514",
+        [
+            "OUTFIELD"
+        ],
+        681546
+    ],
+    "sam hentges": [
+        "sam-hentges-19960718",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656529
+    ],
+    "cole waites": [
+        "cole-waites-19980610",
+        [
+            "RELIEF_PITCHER"
+        ],
+        686972
+    ],
+    "vladimir guerrero": [
+        "vladimir-guerrero-jr-19990316",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        665489
+    ],
+    "mitch garver": [
+        "mitch-garver-19910115",
+        [
+            "CATCHER",
+            "DESIGNATED_HITTER"
+        ],
+        641598
+    ],
+    "mackenzie gore": [
+        "mackenzie-gore-19990224",
+        [
+            "STARTING_PITCHER"
+        ],
+        669022
+    ],
+    "luis patino": [
+        "luis-patino-19991026",
+        [
+            "RELIEF_PITCHER"
+        ],
+        672715
+    ],
+    "jordan romano": [
+        "jordan-romano-19930421",
+        [
+            "RELIEF_PITCHER"
+        ],
+        605447
+    ],
+    "scott barlow": [
+        "scott-barlow-19921218",
+        [
+            "RELIEF_PITCHER"
+        ],
+        605130
+    ],
+    "oswald peraza": [
+        "oswald-peraza-20000615",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        672724
+    ],
+    "ryan o'hearn": [
+        "ryan-ohearn-19930726",
+        [
+            "FIRST_BASE",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        656811
+    ],
+    "peyton burdick": [
+        "peyton-burdick-19970226",
+        [
+            "OUTFIELD"
+        ],
+        680814
+    ],
+    "andy ibanez": [
+        "andy-ibanez-19930403",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "OUTFIELD"
+        ],
+        628451
+    ],
+    "marco luciano": [
+        "marco-luciano-20010910",
+        [
+            "SHORTSTOP"
+        ],
+        682617
+    ],
+    "brice turang": [
+        "brice-turang-19991121",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP"
+        ],
+        668930
+    ],
+    "chad wallach": [
+        "chad-wallach-19911104",
+        [
+            "CATCHER"
+        ],
+        595453
+    ],
+    "austin riley": [
+        "austin-riley-19970402",
+        [
+            "THIRD_BASE"
+        ],
+        663586
+    ],
+    "garrett mitchell": [
+        "garrett-mitchell-19980904",
+        [
+            "OUTFIELD"
+        ],
+        669003
+    ],
+    "zach jackson": [
+        "zach-jackson-19941225",
+        [
+            "RELIEF_PITCHER"
+        ],
+        667427
+    ],
+    "dakota hudson": [
+        "dakota-hudson-19940915",
+        [
+            "STARTING_PITCHER"
+        ],
+        641712
+    ],
+    "luis arraez": [
+        "luis-arraez-19970409",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE"
+        ],
+        650333
+    ],
+    "garrett whitlock": [
+        "garrett-whitlock-19960611",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        676477
+    ],
+    "noah syndergaard": [
+        "noah-syndergaard-19920829",
+        [
+            "STARTING_PITCHER"
+        ],
+        592789
+    ],
+    "sandy alcantara": [
+        "sandy-alcantara-19950907",
+        [
+            "STARTING_PITCHER"
+        ],
+        645261
+    ],
+    "joe mantiply": [
+        "joe-mantiply-19910301",
+        [
+            "RELIEF_PITCHER"
+        ],
+        573009
+    ],
+    "seth martinez": [
+        "seth-martinez-19940829",
+        [
+            "RELIEF_PITCHER"
+        ],
+        661527
+    ],
+    "tylor megill": [
+        "tylor-megill-19950728",
+        [
+            "STARTING_PITCHER"
+        ],
+        656731
+    ],
+    "josh lowe": [
+        "josh-lowe-19980202",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        666139
+    ],
+    "joe ryan": [
+        "joe-ryan-19960605",
+        [
+            "STARTING_PITCHER"
+        ],
+        657746
+    ],
+    "luke maile": [
+        "luke-maile-19910206",
+        [
+            "CATCHER"
+        ],
+        571912
+    ],
+    "nick senzel": [
+        "nick-senzel-19950629",
+        [
+            "THIRD_BASE",
+            "OUTFIELD"
+        ],
+        669222
+    ],
+    "jose barrero": [
+        "jose-barrero-19980405",
+        [
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        676480
+    ],
+    "ezequiel duran": [
+        "ezequiel-duran-19990522",
+        [
+            "THIRD_BASE",
+            "SHORTSTOP",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        677649
+    ],
+    "jordan westburg": [
+        "jordan-westburg-19990218",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        676059
+    ],
+    "rodolfo castro": [
+        "rodolfo-castro-19990521",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        666801
+    ],
+    "tim herrin": [
+        "tim-herrin-19961008",
+        [
+            "RELIEF_PITCHER"
+        ],
+        682120
+    ],
+    "austin barnes": [
+        "austin-barnes-19891228",
+        [
+            "CATCHER"
+        ],
+        605131
+    ],
+    "clay holmes": [
+        "clay-holmes-19930327",
+        [
+            "RELIEF_PITCHER"
+        ],
+        605280
+    ],
+    "zach neto": [
+        "zach-neto-20010131",
+        [
+            "SHORTSTOP"
+        ],
+        687263
+    ],
+    "brett sullivan": [
+        "brett-sullivan-19940222",
+        [
+            "CATCHER"
+        ],
+        664954
+    ],
+    "jake burger": [
+        "jake-burger-19960410",
+        [
+            "THIRD_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        669394
+    ],
+    "luke weaver": [
+        "luke-weaver-19930821",
+        [
+            "STARTING_PITCHER"
+        ],
+        596133
+    ],
+    "tyler anderson": [
+        "tyler-anderson-19891230",
+        [
+            "STARTING_PITCHER"
+        ],
+        542881
+    ],
+    "tony santillan": [
+        "tony-santillan-19970415",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663574
+    ],
+    "yency almonte": [
+        "yency-almonte-19940604",
+        [
+            "RELIEF_PITCHER"
+        ],
+        622075
+    ],
+    "kutter crawford": [
+        "kutter-crawford-19960401",
+        [
+            "STARTING_PITCHER"
+        ],
+        676710
+    ],
+    "austin nola": [
+        "austin-nola-19891228",
+        [
+            "CATCHER"
+        ],
+        543592
+    ],
+    "dominic fletcher": [
+        "dominic-fletcher-19970902",
+        [
+            "OUTFIELD"
+        ],
+        666150
+    ],
+    "andrew chafin": [
+        "andrew-chafin-19900617",
+        [
+            "RELIEF_PITCHER"
+        ],
+        605177
+    ],
+    "jalen beeks": [
+        "jalen-beeks-19930710",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656222
+    ],
+    "kerry carpenter": [
+        "kerry-carpenter-19970902",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        681481
+    ],
+    "cedric mullins": [
+        "cedric-mullins-19941001",
+        [
+            "OUTFIELD"
+        ],
+        656775
+    ],
+    "alexis diaz": [
+        "alexis-diaz-19960928",
+        [
+            "RELIEF_PITCHER"
+        ],
+        664747
+    ],
+    "james kaprielian": [
+        "james-kaprielian-19940302",
+        [
+            "STARTING_PITCHER"
+        ],
+        621076
+    ],
+    "cooper hummel": [
+        "cooper-hummel-19941128",
+        [
+            "DESIGNATED_HITTER"
+        ],
+        669450
+    ],
+    "ryan pepiot": [
+        "ryan-pepiot-19970821",
+        [
+            "STARTING_PITCHER"
+        ],
+        686752
+    ],
+    "cole sands": [
+        "cole-sands-19970717",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663485
+    ],
+    "phil maton": [
+        "phil-maton-19930325",
+        [
+            "RELIEF_PITCHER"
+        ],
+        664208
+    ],
+    "ronny mauricio": [
+        "ronny-mauricio-20010404",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP"
+        ],
+        677595
+    ],
+    "danny mendick": [
+        "danny-mendick-19930928",
+        [
+            "SECOND_BASE"
+        ],
+        664901
+    ],
+    "anthony misiewicz": [
+        "anthony-misiewicz-19941101",
+        [
+            "RELIEF_PITCHER"
+        ],
+        664948
+    ],
+    "tanner bibee": [
+        "tanner-bibee-19990305",
+        [
+            "STARTING_PITCHER"
+        ],
+        676440
+    ],
+    "jake bauers": [
+        "jake-bauers-19951006",
+        [
+            "FIRST_BASE",
+            "OUTFIELD"
+        ],
+        641343
+    ],
+    "max castillo": [
+        "max-castillo-19990504",
+        [
+            "STARTING_PITCHER"
+        ],
+        666721
+    ],
+    "glenn otto": [
+        "glenn-otto-19960311",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657248
+    ],
+    "dylan coleman": [
+        "dylan-coleman-19960916",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669395
+    ],
+    "luis matos": [
+        "luis-matos-20020128",
+        [
+            "OUTFIELD"
+        ],
+        682641
+    ],
+    "kris bubic": [
+        "kris-bubic-19970819",
+        [
+            "STARTING_PITCHER"
+        ],
+        663460
+    ],
+    "connor overton": [
+        "connor-overton-19930724",
+        [
+            "STARTING_PITCHER"
+        ],
+        656818
+    ],
+    "kevin smith": [
+        "kevin-smith-19960704",
+        [
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        675656
+    ],
+    "tristan beck": [
+        "tristan-beck-19960624",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663941
+    ],
+    "teoscar hernandez": [
+        "teoscar-hernandez-19921015",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        606192
+    ],
+    "jake cronenworth": [
+        "jake-cronenworth-19940121",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE"
+        ],
+        630105
+    ],
+    "trevor may": [
+        "trevor-may-19890923",
+        [
+            "RELIEF_PITCHER"
+        ],
+        543507
+    ],
+    "shohei ohtani": [
+        "shohei-ohtani-19940705",
+        [
+            "STARTING_PITCHER",
+            "DESIGNATED_HITTER"
+        ],
+        660271
+    ],
+    "jake woodford": [
+        "jake-woodford-19961028",
+        [
+            "STARTING_PITCHER"
+        ],
+        663765
+    ],
+    "stone garrett": [
+        "stone-garrett-19951122",
+        [
+            "OUTFIELD"
+        ],
+        656448
+    ],
+    "kirby yates": [
+        "kirby-yates-19870325",
+        [
+            "RELIEF_PITCHER"
+        ],
+        489446
+    ],
+    "andres gimenez": [
+        "andres-gimenez-19980904",
+        [
+            "SECOND_BASE"
+        ],
+        665926
+    ],
+    "matt festa": [
+        "matt-festa-19930311",
+        [
+            "RELIEF_PITCHER"
+        ],
+        670036
+    ],
+    "joey gallo": [
+        "joey-gallo-19931119",
+        [
+            "FIRST_BASE",
+            "OUTFIELD"
+        ],
+        608336
+    ],
+    "hector neris": [
+        "hector-neris-19890614",
+        [
+            "RELIEF_PITCHER"
+        ],
+        593576
+    ],
+    "shawn armstrong": [
+        "shawn-armstrong-19900911",
+        [
+            "RELIEF_PITCHER"
+        ],
+        542888
+    ],
+    "jake alu": [
+        "jake-alu-19970406",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        666906
+    ],
+    "justin martinez": [
+        "justin-martinez-20010730",
+        [
+            "RELIEF_PITCHER"
+        ],
+        679885
+    ],
+    "trent thornton": [
+        "trent-thornton-19930930",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663423
+    ],
+    "dalton guthrie": [
+        "dalton-guthrie-19951223",
+        [
+            "THIRD_BASE",
+            "OUTFIELD"
+        ],
+        656495
+    ],
+    "brady singer": [
+        "brady-singer-19960804",
+        [
+            "STARTING_PITCHER"
+        ],
+        663903
+    ],
+    "mike brosseau": [
+        "mike-brosseau-19940315",
+        [
+            "THIRD_BASE"
+        ],
+        670712
+    ],
+    "bryan baker": [
+        "bryan-baker-19941202",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641329
+    ],
+    "dominic smith": [
+        "dominic-smith-19950615",
+        [
+            "FIRST_BASE"
+        ],
+        642086
+    ],
+    "george soriano": [
+        "george-soriano-19990324",
+        [
+            "RELIEF_PITCHER"
+        ],
+        666277
+    ],
+    "josh jung": [
+        "josh-jung-19980212",
+        [
+            "THIRD_BASE"
+        ],
+        673962
+    ],
+    "jorge lopez": [
+        "jorge-lopez-19930210",
+        [
+            "RELIEF_PITCHER"
+        ],
+        605347
+    ],
+    "brian serven": [
+        "brian-serven-19950505",
+        [
+            "CATCHER"
+        ],
+        661531
+    ],
+    "kris bryant": [
+        "kris-bryant-19920104",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        592178
+    ],
+    "elvis peguero": [
+        "elvis-peguero-19970320",
+        [
+            "RELIEF_PITCHER"
+        ],
+        665625
+    ],
+    "christopher morel": [
+        "christopher-morel-19990624",
+        [
+            "SECOND_BASE",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        666624
+    ],
+    "steven wilson": [
+        "steven-wilson-19940824",
+        [
+            "RELIEF_PITCHER"
+        ],
+        621051
+    ],
+    "mike baumann": [
+        "mike-baumann-19950910",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657508
+    ],
+    "richard bleier": [
+        "richard-bleier-19870416",
+        [
+            "RELIEF_PITCHER"
+        ],
+        542947
+    ],
+    "felix bautista": [
+        "felix-bautista-19950620",
+        [
+            "RELIEF_PITCHER"
+        ],
+        642585
+    ],
+    "mj melendez": [
+        "mj-melendez-19981129",
+        [
+            "CATCHER",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        669004
+    ],
+    "matt vierling": [
+        "matt-vierling-19960916",
+        [
+            "THIRD_BASE",
+            "OUTFIELD"
+        ],
+        663837
+    ],
+    "bryan de la cruz": [
+        "bryan-de-la-cruz-19961216",
+        [
+            "OUTFIELD"
+        ],
+        650559
+    ],
+    "shawn dubin": [
+        "shawn-dubin-19950906",
+        [
+            "STARTING_PITCHER"
+        ],
+        681869
+    ],
+    "raisel iglesias": [
+        "raisel-iglesias-19900104",
+        [
+            "RELIEF_PITCHER"
+        ],
+        628452
+    ],
+    "kyle isbel": [
+        "kyle-isbel-19970303",
+        [
+            "OUTFIELD"
+        ],
+        664728
+    ],
+    "brandon drury": [
+        "brandon-drury-19920821",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE"
+        ],
+        592273
+    ],
+    "scott mcgough": [
+        "scott-mcgough-19891031",
+        [
+            "RELIEF_PITCHER"
+        ],
+        543518
+    ],
+    "andrew benintendi": [
+        "andrew-benintendi-19940706",
+        [
+            "OUTFIELD"
+        ],
+        643217
+    ],
+    "rowdy tellez": [
+        "rowdy-tellez-19950316",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        642133
+    ],
+    "matt manning": [
+        "matt-manning-19980128",
+        [
+            "STARTING_PITCHER"
+        ],
+        666159
+    ],
+    "ken waldichuk": [
+        "ken-waldichuk-19980108",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        686610
+    ],
+    "pablo lopez": [
+        "pablo-lopez-19960307",
+        [
+            "STARTING_PITCHER"
+        ],
+        641154
+    ],
+    "bobby witt": [
+        "bobby-witt-jr-20000614",
+        [
+            "SHORTSTOP",
+            "DESIGNATED_HITTER"
+        ],
+        677951
+    ],
+    "chadwick tromp": [
+        "chadwick-tromp-19950321",
+        [
+            "CATCHER"
+        ],
+        644433
+    ],
+    "will smith": [
+        "will-smith-19950328",
+        [
+            "CATCHER",
+            "DESIGNATED_HITTER"
+        ],
+        669257
+    ],
+    "bo bichette": [
+        "bo-bichette-19980305",
+        [
+            "SHORTSTOP"
+        ],
+        666182
+    ],
+    "christian walker": [
+        "christian-walker-19910328",
+        [
+            "FIRST_BASE"
+        ],
+        572233
+    ],
+    "brent honeywell": [
+        "brent-honeywell-jr-19950331",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641703
+    ],
+    "ramon laureano": [
+        "ramon-laureano-19940715",
+        [
+            "OUTFIELD"
+        ],
+        657656
+    ],
+    "nick allen": [
+        "nick-allen-19981008",
+        [
+            "SHORTSTOP"
+        ],
+        669397
+    ],
+    "zac gallen": [
+        "zac-gallen-19950803",
+        [
+            "STARTING_PITCHER"
+        ],
+        668678
+    ],
+    "luis medina": [
+        "luis-medina-19990503",
+        [
+            "STARTING_PITCHER"
+        ],
+        665622
+    ],
+    "jake rogers": [
+        "jake-rogers-19950418",
+        [
+            "CATCHER"
+        ],
+        668670
+    ],
+    "connor brogdon": [
+        "connor-brogdon-19950129",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641401
+    ],
+    "jaime barria": [
+        "jaime-barria-19960718",
+        [
+            "RELIEF_PITCHER"
+        ],
+        642545
+    ],
+    "tejay antone": [
+        "tejay-antone-19931205",
+        [
+            "RELIEF_PITCHER"
+        ],
+        622088
+    ],
+    "cody bellinger": [
+        "cody-bellinger-19950713",
+        [
+            "FIRST_BASE",
+            "OUTFIELD"
+        ],
+        641355
+    ],
+    "xzavion curry": [
+        "xzavion-curry-19980727",
+        [
+            "RELIEF_PITCHER"
+        ],
+        675540
+    ],
+    "ryan mckenna": [
+        "ryan-mckenna-19970214",
+        [
+            "OUTFIELD"
+        ],
+        663630
+    ],
+    "luis robert": [
+        "luis-robert-19970803",
+        [
+            "OUTFIELD"
+        ],
+        673357
+    ],
+    "lourdes gurriel": [
+        "lourdes-gurriel-jr-19931010",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        666971
+    ],
+    "garrett cooper": [
+        "garrett-cooper-19901225",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        643265
+    ],
+    "peter strzelecki": [
+        "peter-strzelecki-19941024",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657265
+    ],
+    "jared walsh": [
+        "jared-walsh-19930730",
+        [
+            "FIRST_BASE"
+        ],
+        665120
+    ],
+    "tyler soderstrom": [
+        "tyler-soderstrom-20011124",
+        [
+            "CATCHER",
+            "DESIGNATED_HITTER"
+        ],
+        691016
+    ],
+    "gavin stone": [
+        "gavin-stone-19981015",
+        [
+            "STARTING_PITCHER"
+        ],
+        694813
+    ],
+    "a. j. minter": [
+        "a-j-minter-19930902",
+        [
+            "RELIEF_PITCHER"
+        ],
+        621345
+    ],
+    "eugenio suarez": [
+        "eugenio-suarez-19910718",
+        [
+            "THIRD_BASE"
+        ],
+        553993
+    ],
+    "david fletcher": [
+        "david-fletcher-19940531",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP"
+        ],
+        664058
+    ],
+    "shintaro fujinami": [
+        "shintaro-fujinami-19940412",
+        [
+            "RELIEF_PITCHER"
+        ],
+        660261
+    ],
+    "robbie ray": [
+        "robbie-ray-19911001",
+        [
+            "STARTING_PITCHER"
+        ],
+        592662
+    ],
+    "alek thomas": [
+        "alek-thomas-20000428",
+        [
+            "OUTFIELD"
+        ],
+        677950
+    ],
+    "sean manaea": [
+        "sean-manaea-19920201",
+        [
+            "RELIEF_PITCHER"
+        ],
+        640455
+    ],
+    "kyle stowers": [
+        "kyle-stowers-19980102",
+        [
+            "OUTFIELD"
+        ],
+        669065
+    ],
+    "josh bell": [
+        "josh-bell-19920814",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        605137
+    ],
+    "tyler mahle": [
+        "tyler-mahle-19940929",
+        [
+            "STARTING_PITCHER"
+        ],
+        641816
+    ],
+    "lane thomas": [
+        "lane-thomas-19950823",
+        [
+            "OUTFIELD"
+        ],
+        657041
+    ],
+    "elias diaz": [
+        "elias-diaz-19901117",
+        [
+            "CATCHER"
+        ],
+        553869
+    ],
+    "aaron civale": [
+        "aaron-civale-19950612",
+        [
+            "STARTING_PITCHER"
+        ],
+        650644
+    ],
+    "carlos perez": [
+        "carlos-perez-19960910",
+        [
+            "CATCHER"
+        ],
+        656024
+    ],
+    "diego castillo": [
+        "diego-castillo-19971028",
+        [
+            "SHORTSTOP"
+        ],
+        660636
+    ],
+    "jorge soler": [
+        "jorge-soler-19920225",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        624585
+    ],
+    "levi stoudt": [
+        "levi-stoudt-19971204",
+        [
+            "STARTING_PITCHER"
+        ],
+        686651
+    ],
+    "oneil cruz": [
+        "oneil-cruz-19981004",
+        [
+            "SHORTSTOP"
+        ],
+        665833
+    ],
+    "spencer howard": [
+        "spencer-howard-19960728",
+        [
+            "STARTING_PITCHER"
+        ],
+        675921
+    ],
+    "david villar": [
+        "david-villar-19970127",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        681584
+    ],
+    "jose hernandez": [
+        "jose-hernandez-19971231",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669796
+    ],
+    "tucker davidson": [
+        "tucker-davidson-19960325",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656353
+    ],
+    "colin selby": [
+        "colin-selby-19971024",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        681882
+    ],
+    "josh staumont": [
+        "josh-staumont-19931221",
+        [
+            "RELIEF_PITCHER"
+        ],
+        622251
+    ],
+    "matt chapman": [
+        "matt-chapman-19930428",
+        [
+            "THIRD_BASE"
+        ],
+        656305
+    ],
+    "matt barnes": [
+        "matt-barnes-19900617",
+        [
+            "RELIEF_PITCHER"
+        ],
+        598264
+    ],
+    "brendan donovan": [
+        "brendan-donovan-19970116",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        680977
+    ],
+    "tarik skubal": [
+        "tarik-skubal-19961120",
+        [
+            "STARTING_PITCHER"
+        ],
+        669373
+    ],
+    "freddy fermin": [
+        "freddy-fermin-19950516",
+        [
+            "CATCHER"
+        ],
+        666023
+    ],
+    "jo adell": [
+        "jo-adell-19990408",
+        [
+            "OUTFIELD"
+        ],
+        666176
+    ],
+    "janson junk": [
+        "janson-junk-19960115",
+        [
+            "STARTING_PITCHER"
+        ],
+        676083
+    ],
+    "michael grove": [
+        "michael-grove-19961218",
+        [
+            "STARTING_PITCHER"
+        ],
+        675627
+    ],
+    "trent grisham": [
+        "trent-grisham-19961101",
+        [
+            "OUTFIELD"
+        ],
+        663757
+    ],
+    "jameson taillon": [
+        "jameson-taillon-19911118",
+        [
+            "STARTING_PITCHER"
+        ],
+        592791
+    ],
+    "trey mancini": [
+        "trey-mancini-19920318",
+        [
+            "FIRST_BASE",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        641820
+    ],
+    "isan diaz": [
+        "isan-diaz-19960527",
+        [
+            "SECOND_BASE"
+        ],
+        656371
+    ],
+    "evan carter": [
+        "evan-carter-20020829",
+        [
+            "OUTFIELD"
+        ],
+        694497
+    ],
+    "jose soriano": [
+        "jose-soriano-19981020",
+        [
+            "RELIEF_PITCHER"
+        ],
+        667755
+    ],
+    "justin lawrence": [
+        "justin-lawrence-19941125",
+        [
+            "RELIEF_PITCHER"
+        ],
+        664875
+    ],
+    "jonathan aranda": [
+        "jonathan-aranda-19980523",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        666018
+    ],
+    "caleb ferguson": [
+        "caleb-ferguson-19960702",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657571
+    ],
+    "corey seager": [
+        "corey-seager-19940427",
+        [
+            "SHORTSTOP"
+        ],
+        608369
+    ],
+    "ryan mcmahon": [
+        "ryan-mcmahon-19941214",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        641857
+    ],
+    "kenta maeda": [
+        "kenta-maeda-19880411",
+        [
+            "STARTING_PITCHER"
+        ],
+        628317
+    ],
+    "marcus stroman": [
+        "marcus-stroman-19910501",
+        [
+            "STARTING_PITCHER"
+        ],
+        573186
+    ],
+    "drew smith": [
+        "drew-smith-19930924",
+        [
+            "RELIEF_PITCHER"
+        ],
+        622098
+    ],
+    "michael chavis": [
+        "michael-chavis-19950811",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE"
+        ],
+        656308
+    ],
+    "spencer steer": [
+        "spencer-steer-19971207",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "OUTFIELD"
+        ],
+        668715
+    ],
+    "josh naylor": [
+        "josh-naylor-19970622",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        647304
+    ],
+    "c. j. cron": [
+        "c-j-cron-19900105",
+        [
+            "FIRST_BASE"
+        ],
+        543068
+    ],
+    "yohan ramirez": [
+        "yohan-ramirez-19950506",
+        [
+            "RELIEF_PITCHER"
+        ],
+        670990
+    ],
+    "aaron bummer": [
+        "aaron-bummer-19930921",
+        [
+            "RELIEF_PITCHER"
+        ],
+        607481
+    ],
+    "yusei kikuchi": [
+        "yusei-kikuchi-19910617",
+        [
+            "STARTING_PITCHER"
+        ],
+        579328
+    ],
+    "genesis cabrera": [
+        "genesis-cabrera-19961010",
+        [
+            "RELIEF_PITCHER"
+        ],
+        650893
+    ],
+    "kyle higashioka": [
+        "kyle-higashioka-19900420",
+        [
+            "CATCHER"
+        ],
+        543309
+    ],
+    "domingo acevedo": [
+        "domingo-acevedo-19940306",
+        [
+            "RELIEF_PITCHER"
+        ],
+        642758
+    ],
+    "sam moll": [
+        "sam-moll-19920103",
+        [
+            "RELIEF_PITCHER"
+        ],
+        594580
+    ],
+    "blake snell": [
+        "blake-snell-19921204",
+        [
+            "STARTING_PITCHER"
+        ],
+        605483
+    ],
+    "logan webb": [
+        "logan-webb-19961118",
+        [
+            "STARTING_PITCHER"
+        ],
+        657277
+    ],
+    "luis ortiz": [
+        "luis-ortiz-19990127",
+        [
+            "STARTING_PITCHER"
+        ],
+        682847
+    ],
+    "taylor motter": [
+        "taylor-motter-19890918",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        600301
+    ],
+    "brock burke": [
+        "brock-burke-19960804",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656271
+    ],
+    "nabil crismatt": [
+        "nabil-crismatt-19941225",
+        [
+            "RELIEF_PITCHER"
+        ],
+        622503
+    ],
+    "jordan hicks": [
+        "jordan-hicks-19960906",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663855
+    ],
+    "juan soto": [
+        "juan-soto-19981025",
+        [
+            "OUTFIELD"
+        ],
+        665742
+    ],
+    "tanner houck": [
+        "tanner-houck-19960629",
+        [
+            "STARTING_PITCHER"
+        ],
+        656557
+    ],
+    "luke voit": [
+        "luke-voit-19910213",
+        [
+            "FIRST_BASE"
+        ],
+        572228
+    ],
+    "ian hamilton": [
+        "ian-hamilton-19950616",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641656
+    ],
+    "brent rooker": [
+        "brent-rooker-19941101",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        667670
+    ],
+    "matt thaiss": [
+        "matt-thaiss-19950506",
+        [
+            "CATCHER"
+        ],
+        642136
+    ],
+    "jarred kelenic": [
+        "jarred-kelenic-19990716",
+        [
+            "OUTFIELD"
+        ],
+        672284
+    ],
+    "jonah heim": [
+        "jonah-heim-19950627",
+        [
+            "CATCHER"
+        ],
+        641680
+    ],
+    "jordan lawlar": [
+        "jordan-lawlar-20020717",
+        [
+            "SHORTSTOP"
+        ],
+        691783
+    ],
+    "eric haase": [
+        "eric-haase-19921218",
+        [
+            "CATCHER",
+            "OUTFIELD"
+        ],
+        606992
+    ],
+    "andrew heaney": [
+        "andrew-heaney-19910605",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        571760
+    ],
+    "jeff mcneil": [
+        "jeff-mcneil-19920408",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        643446
+    ],
+    "chasen shreve": [
+        "chasen-shreve-19900712",
+        [
+            "RELIEF_PITCHER"
+        ],
+        592741
+    ],
+    "isaiah campbell": [
+        "isaiah-campbell-19970815",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663462
+    ],
+    "ben lively": [
+        "ben-lively-19920305",
+        [
+            "STARTING_PITCHER"
+        ],
+        594902
+    ],
+    "edward olivares": [
+        "edward-olivares-19960306",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        658668
+    ],
+    "yunior marte": [
+        "yunior-marte-19950202",
+        [
+            "RELIEF_PITCHER"
+        ],
+        628708
+    ],
+    "adbert alzolay": [
+        "adbert-alzolay-19950301",
+        [
+            "RELIEF_PITCHER"
+        ],
+        640470
+    ],
+    "garrett hill": [
+        "garrett-hill-19960116",
+        [
+            "RELIEF_PITCHER"
+        ],
+        682051
+    ],
+    "david fry": [
+        "david-fry-19951120",
+        [
+            "CATCHER",
+            "FIRST_BASE"
+        ],
+        681807
+    ],
+    "domingo german": [
+        "domingo-german-19920804",
+        [
+            "STARTING_PITCHER"
+        ],
+        593334
+    ],
+    "kodai senga": [
+        "kodai-senga-19930130",
+        [
+            "STARTING_PITCHER"
+        ],
+        673540
+    ],
+    "colin rea": [
+        "colin-rea-19900701",
+        [
+            "STARTING_PITCHER"
+        ],
+        607067
+    ],
+    "matt olson": [
+        "matt-olson-19940329",
+        [
+            "FIRST_BASE"
+        ],
+        621566
+    ],
+    "luke raley": [
+        "luke-raley-19940919",
+        [
+            "FIRST_BASE",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        670042
+    ],
+    "colin holderman": [
+        "colin-holderman-19951008",
+        [
+            "RELIEF_PITCHER"
+        ],
+        670059
+    ],
+    "jon berti": [
+        "jon-berti-19900122",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        542932
+    ],
+    "nolan gorman": [
+        "nolan-gorman-20000510",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        669357
+    ],
+    "patrick sandoval": [
+        "patrick-sandoval-19961018",
+        [
+            "STARTING_PITCHER"
+        ],
+        663776
+    ],
+    "phil bickford": [
+        "phil-bickford-19950710",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641360
+    ],
+    "shane bieber": [
+        "shane-bieber-19950531",
+        [
+            "STARTING_PITCHER"
+        ],
+        669456
+    ],
+    "mark vientos": [
+        "mark-vientos-19991211",
+        [
+            "THIRD_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        668901
+    ],
+    "andrew wantz": [
+        "andrew-wantz-19951013",
+        [
+            "RELIEF_PITCHER"
+        ],
+        681806
+    ],
+    "lenyn sosa": [
+        "lenyn-sosa-20000125",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP"
+        ],
+        672820
+    ],
+    "isiah kiner-falefa": [
+        "isiah-kiner-falefa-19950323",
+        [
+            "THIRD_BASE",
+            "OUTFIELD"
+        ],
+        643396
+    ],
+    "jose suarez": [
+        "jose-suarez-19980103",
+        [
+            "STARTING_PITCHER"
+        ],
+        660761
+    ],
+    "steven matz": [
+        "steven-matz-19910529",
+        [
+            "STARTING_PITCHER"
+        ],
+        571927
+    ],
+    "luis severino": [
+        "luis-severino-19940220",
+        [
+            "STARTING_PITCHER"
+        ],
+        622663
+    ],
+    "nick pratto": [
+        "nick-pratto-19981006",
+        [
+            "FIRST_BASE",
+            "OUTFIELD"
+        ],
+        668472
+    ],
+    "lucas sims": [
+        "lucas-sims-19940510",
+        [
+            "RELIEF_PITCHER"
+        ],
+        608371
+    ],
+    "dean kremer": [
+        "dean-kremer-19960107",
+        [
+            "STARTING_PITCHER"
+        ],
+        665152
+    ],
+    "enrique hernandez": [
+        "kike-hernandez-19910824",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        571771
+    ],
+    "henry davis": [
+        "henry-davis-19990921",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        680779
+    ],
+    "tyler alexander": [
+        "tyler-alexander-19940714",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641302
+    ],
+    "thairo estrada": [
+        "thairo-estrada-19960222",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP"
+        ],
+        642731
+    ],
+    "michael kopech": [
+        "michael-kopech-19960430",
+        [
+            "STARTING_PITCHER"
+        ],
+        656629
+    ],
+    "trevor williams": [
+        "trevor-williams-19920425",
+        [
+            "STARTING_PITCHER"
+        ],
+        592866
+    ],
+    "francisco alvarez": [
+        "francisco-alvarez-20011119",
+        [
+            "CATCHER"
+        ],
+        682626
+    ],
+    "mitch keller": [
+        "mitch-keller-19960404",
+        [
+            "STARTING_PITCHER"
+        ],
+        656605
+    ],
+    "chris bassitt": [
+        "chris-bassitt-19890222",
+        [
+            "STARTING_PITCHER"
+        ],
+        605135
+    ],
+    "brandon lowe": [
+        "brandon-lowe-19940706",
+        [
+            "SECOND_BASE"
+        ],
+        664040
+    ],
+    "bryse wilson": [
+        "bryse-wilson-19971220",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669060
+    ],
+    "mark leiter": [
+        "mark-leiter-jr-19910313",
+        [
+            "RELIEF_PITCHER"
+        ],
+        643410
+    ],
+    "carlos hernandez": [
+        "carlos-hernandez-19970311",
+        [
+            "RELIEF_PITCHER"
+        ],
+        672578
+    ],
+    "carter kieboom": [
+        "carter-kieboom-19970903",
+        [
+            "THIRD_BASE"
+        ],
+        666198
+    ],
+    "enyel de los santos": [
+        "enyel-de-los-santos-19951225",
+        [
+            "RELIEF_PITCHER"
+        ],
+        660853
+    ],
+    "corey julks": [
+        "corey-julks-19960227",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        667452
+    ],
+    "nolan jones": [
+        "nolan-jones-19980507",
+        [
+            "FIRST_BASE",
+            "OUTFIELD"
+        ],
+        666134
+    ],
+    "clarke schmidt": [
+        "clarke-schmidt-19960220",
+        [
+            "STARTING_PITCHER"
+        ],
+        657376
+    ],
+    "joely rodriguez": [
+        "joely-rodriguez-19911114",
+        [
+            "RELIEF_PITCHER"
+        ],
+        570257
+    ],
+    "danny coulombe": [
+        "danny-coulombe-19891026",
+        [
+            "RELIEF_PITCHER"
+        ],
+        543056
+    ],
+    "bailey falter": [
+        "bailey-falter-19970424",
+        [
+            "STARTING_PITCHER"
+        ],
+        663559
+    ],
+    "nico hoerner": [
+        "nico-hoerner-19970513",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP"
+        ],
+        663538
+    ],
+    "josh taylor": [
+        "josh-taylor-19930302",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657031
+    ],
+    "cj abrams": [
+        "c-j-abrams-20001003",
+        [
+            "SHORTSTOP"
+        ],
+        682928
+    ],
+    "tucupita marcano": [
+        "tucupita-marcano-19990916",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        672779
+    ],
+    "franmil reyes": [
+        "franmil-reyes-19950707",
+        [
+            "DESIGNATED_HITTER"
+        ],
+        614177
+    ],
+    "jacob amaya": [
+        "jacob-amaya-19980903",
+        [
+            "SHORTSTOP"
+        ],
+        676070
+    ],
+    "will benson": [
+        "will-benson-19980616",
+        [
+            "OUTFIELD"
+        ],
+        666181
+    ],
+    "brent suter": [
+        "brent-suter-19890829",
+        [
+            "RELIEF_PITCHER"
+        ],
+        608718
+    ],
+    "owen miller": [
+        "owen-miller-19961115",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        680911
+    ],
+    "nick pivetta": [
+        "nick-pivetta-19930214",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        601713
+    ],
+    "shane mcclanahan": [
+        "shane-mcclanahan-19970428",
+        [
+            "STARTING_PITCHER"
+        ],
+        663556
+    ],
+    "brennan bernardino": [
+        "brennan-bernardino-19920115",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657514
+    ],
+    "david hamilton": [
+        "david-hamilton-19970929",
+        [
+            "SHORTSTOP"
+        ],
+        666152
+    ],
+    "jacob webb": [
+        "jacob-webb-19930815",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657097
+    ],
+    "jasson dominguez": [
+        "jasson-dominguez-20030207",
+        [
+            "OUTFIELD"
+        ],
+        691176
+    ],
+    "antonio senzatela": [
+        "antonio-senzatela-19950121",
+        [
+            "STARTING_PITCHER"
+        ],
+        622608
+    ],
+    "sal frelick": [
+        "sal-frelick-20000419",
+        [
+            "OUTFIELD"
+        ],
+        686217
+    ],
+    "grayson rodriguez": [
+        "grayson-rodriguez-19991116",
+        [
+            "STARTING_PITCHER"
+        ],
+        680570
+    ],
+    "logan o'hoppe": [
+        "logan-ohoppe-20000209",
+        [
+            "CATCHER"
+        ],
+        681351
+    ],
+    "jose siri": [
+        "jose-siri-19950722",
+        [
+            "OUTFIELD"
+        ],
+        642350
+    ],
+    "emmanuel clase": [
+        "emmanuel-clase-19980318",
+        [
+            "RELIEF_PITCHER"
+        ],
+        661403
+    ],
+    "tyler nevin": [
+        "tyler-nevin-19970529",
+        [
+            "THIRD_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        663527
+    ],
+    "j. p. crawford": [
+        "j-p-crawford-19950111",
+        [
+            "SHORTSTOP"
+        ],
+        641487
+    ],
+    "matt bush": [
+        "matt-bush-19860208",
+        [
+            "RELIEF_PITCHER"
+        ],
+        456713
+    ],
+    "nelson velazquez": [
+        "nelson-velazquez-19981226",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        676369
+    ],
+    "taylor hearn": [
+        "taylor-hearn-19940830",
+        [
+            "RELIEF_PITCHER"
+        ],
+        621368
+    ],
+    "anthony kay": [
+        "anthony-kay-19950321",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641743
+    ],
+    "noelvi marte": [
+        "noelvi-marte-20011016",
+        [
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        682622
+    ],
+    "aaron judge": [
+        "aaron-judge-19920426",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        592450
+    ],
+    "jesus sanchez": [
+        "jesus-sanchez-19971007",
+        [
+            "OUTFIELD"
+        ],
+        660821
+    ],
+    "yonathan daza": [
+        "yonathan-daza-19940228",
+        [
+            "OUTFIELD"
+        ],
+        602074
+    ],
+    "ezequiel tovar": [
+        "ezequiel-tovar-20010801",
+        [
+            "SHORTSTOP"
+        ],
+        678662
+    ],
+    "sam hilliard": [
+        "sam-hilliard-19940221",
+        [
+            "OUTFIELD"
+        ],
+        656541
+    ],
+    "ke'bryan hayes": [
+        "kebryan-hayes-19970128",
+        [
+            "THIRD_BASE"
+        ],
+        663647
+    ],
+    "javy guerra": [
+        "javy-guerra-19950925",
+        [
+            "RELIEF_PITCHER"
+        ],
+        642770
+    ],
+    "aaron nola": [
+        "aaron-nola-19930604",
+        [
+            "STARTING_PITCHER"
+        ],
+        605400
+    ],
+    "albert abreu": [
+        "albert-abreu-19950926",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656061
+    ],
+    "terrin vavra": [
+        "terrin-vavra-19970512",
+        [
+            "OUTFIELD"
+        ],
+        679631
+    ],
+    "steven okert": [
+        "steven-okert-19910709",
+        [
+            "RELIEF_PITCHER"
+        ],
+        595345
+    ],
+    "michael lorenzen": [
+        "michael-lorenzen-19920104",
+        [
+            "STARTING_PITCHER"
+        ],
+        547179
+    ],
+    "alec bohm": [
+        "alec-bohm-19960803",
+        [
+            "FIRST_BASE",
+            "THIRD_BASE"
+        ],
+        664761
+    ],
+    "jp sears": [
+        "jp-sears-19960219",
+        [
+            "STARTING_PITCHER"
+        ],
+        676664
+    ],
+    "cristian pache": [
+        "cristian-pache-19981119",
+        [
+            "OUTFIELD"
+        ],
+        665506
+    ],
+    "ryan thompson": [
+        "ryan-thompson-19920626",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657044
+    ],
+    "matt boyd": [
+        "matthew-boyd-19910202",
+        [
+            "STARTING_PITCHER"
+        ],
+        571510
+    ],
+    "taylor clarke": [
+        "taylor-clarke-19930513",
+        [
+            "RELIEF_PITCHER"
+        ],
+        664199
+    ],
+    "eddie rosario": [
+        "eddie-rosario-19910928",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        592696
+    ],
+    "keegan thompson": [
+        "keegan-thompson-19950313",
+        [
+            "RELIEF_PITCHER"
+        ],
+        624522
+    ],
+    "bruce zimmermann": [
+        "bruce-zimmermann-19950209",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669145
+    ],
+    "yuli gurriel": [
+        "yuli-gurriel-19840609",
+        [
+            "FIRST_BASE"
+        ],
+        493329
+    ],
+    "jonathan india": [
+        "jonathan-india-19961215",
+        [
+            "SECOND_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        663697
+    ],
+    "jimmy herget": [
+        "jimmy-herget-19930909",
+        [
+            "RELIEF_PITCHER"
+        ],
+        623474
+    ],
+    "buck farmer": [
+        "buck-farmer-19910220",
+        [
+            "RELIEF_PITCHER"
+        ],
+        571656
+    ],
+    "hunter greene": [
+        "hunter-greene-19990806",
+        [
+            "STARTING_PITCHER"
+        ],
+        668881
+    ],
+    "mitch haniger": [
+        "mitch-haniger-19901223",
+        [
+            "OUTFIELD"
+        ],
+        571745
+    ],
+    "cal mitchell": [
+        "cal-mitchell-19990308",
+        [
+            "OUTFIELD"
+        ],
+        668751
+    ],
+    "ildemaro vargas": [
+        "ildemaro-vargas-19910716",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        545121
+    ],
+    "ray kerr": [
+        "ray-kerr-19940910",
+        [
+            "RELIEF_PITCHER"
+        ],
+        678061
+    ],
+    "rafael montero": [
+        "rafael-montero-19901017",
+        [
+            "RELIEF_PITCHER"
+        ],
+        606160
+    ],
+    "peyton battenfield": [
+        "peyton-battenfield-19970810",
+        [
+            "STARTING_PITCHER"
+        ],
+        685410
+    ],
+    "aledmys diaz": [
+        "aledmys-diaz-19900801",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        649557
+    ],
+    "javier assad": [
+        "javier-assad-19970730",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        665871
+    ],
+    "joey ortiz": [
+        "joey-ortiz-19980714",
+        [
+            "SECOND_BASE"
+        ],
+        687401
+    ],
+    "drew rasmussen": [
+        "drew-rasmussen-19950727",
+        [
+            "STARTING_PITCHER"
+        ],
+        656876
+    ],
+    "steven kwan": [
+        "steven-kwan-19970905",
+        [
+            "OUTFIELD"
+        ],
+        680757
+    ],
+    "alex verdugo": [
+        "alex-verdugo-19960515",
+        [
+            "OUTFIELD"
+        ],
+        657077
+    ],
+    "curtis mead": [
+        "curtis-mead-20001026",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        678554
+    ],
+    "cristopher sanchez": [
+        "cristopher-sanchez-19961212",
+        [
+            "STARTING_PITCHER"
+        ],
+        650911
+    ],
+    "jeffrey springs": [
+        "jeffrey-springs-19920920",
+        [
+            "STARTING_PITCHER"
+        ],
+        605488
+    ],
+    "german marquez": [
+        "german-marquez-19950222",
+        [
+            "STARTING_PITCHER"
+        ],
+        608566
+    ],
+    "luis cessa": [
+        "luis-cessa-19920425",
+        [
+            "STARTING_PITCHER"
+        ],
+        570666
+    ],
+    "lucas erceg": [
+        "lucas-erceg-19950501",
+        [
+            "RELIEF_PITCHER"
+        ],
+        668674
+    ],
+    "dylan moore": [
+        "dylan-moore-19920802",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        664238
+    ],
+    "tanner banks": [
+        "tanner-banks-19911024",
+        [
+            "RELIEF_PITCHER"
+        ],
+        621383
+    ],
+    "kevin newman": [
+        "kevin-newman-19930804",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        621028
+    ],
+    "trevor stephan": [
+        "trevor-stephan-19951125",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663986
+    ],
+    "bobby miller": [
+        "bobby-miller-19990405",
+        [
+            "STARTING_PITCHER"
+        ],
+        676272
+    ],
+    "tim hill": [
+        "tim-hill-19900210",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657612
+    ],
+    "julian merryweather": [
+        "julian-merryweather-19911014",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657240
+    ],
+    "jose fermin": [
+        "jose-fermin-19990329",
+        [
+            "SECOND_BASE"
+        ],
+        665877
+    ],
+    "mark canha": [
+        "mark-canha-19890215",
+        [
+            "FIRST_BASE",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        592192
+    ],
+    "matthew batten": [
+        "matt-batten-19950622",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        676946
+    ],
+    "easton mcgee": [
+        "easton-mcgee-19971226",
+        [
+            "STARTING_PITCHER"
+        ],
+        668834
+    ],
+    "mason englert": [
+        "mason-englert-19991101",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669438
+    ],
+    "justin topa": [
+        "justin-topa-19910307",
+        [
+            "RELIEF_PITCHER"
+        ],
+        623437
+    ],
+    "matt gage": [
+        "matt-gage-19930211",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657424
+    ],
+    "jj bleday": [
+        "jj-bleday-19971110",
+        [
+            "OUTFIELD"
+        ],
+        668709
+    ],
+    "miguel amaya": [
+        "miguel-amaya-19990309",
+        [
+            "CATCHER"
+        ],
+        665804
+    ],
+    "juan yepez": [
+        "juan-yepez-19980219",
+        [
+            "OUTFIELD"
+        ],
+        660766
+    ],
+    "ryan noda": [
+        "ryan-noda-19960330",
+        [
+            "FIRST_BASE"
+        ],
+        676116
+    ],
+    "jack suwinski": [
+        "jack-suwinski-19980729",
+        [
+            "OUTFIELD"
+        ],
+        669261
+    ],
+    "jose ferrer": [
+        "jose-ferrer-20000303",
+        [
+            "RELIEF_PITCHER"
+        ],
+        678606
+    ],
+    "trayce thompson": [
+        "trayce-thompson-19910315",
+        [
+            "OUTFIELD"
+        ],
+        572204
+    ],
+    "patrick bailey": [
+        "patrick-bailey-19990529",
+        [
+            "CATCHER"
+        ],
+        672275
+    ],
+    "danny jansen": [
+        "danny-jansen-19950415",
+        [
+            "CATCHER"
+        ],
+        643376
+    ],
+    "ryne nelson": [
+        "ryne-nelson-19980201",
+        [
+            "STARTING_PITCHER"
+        ],
+        669194
+    ],
+    "josiah gray": [
+        "josiah-gray-19971221",
+        [
+            "STARTING_PITCHER"
+        ],
+        680686
+    ],
+    "nick fortes": [
+        "nick-fortes-19961111",
+        [
+            "CATCHER"
+        ],
+        663743
+    ],
+    "livan soto": [
+        "livan-soto-20000622",
+        [
+            "SHORTSTOP"
+        ],
+        670869
+    ],
+    "corbin carroll": [
+        "corbin-carroll-20000821",
+        [
+            "OUTFIELD"
+        ],
+        682998
+    ],
+    "marco gonzales": [
+        "marco-gonzales-19920216",
+        [
+            "STARTING_PITCHER"
+        ],
+        594835
+    ],
+    "quinn priester": [
+        "quinn-priester-20000915",
+        [
+            "STARTING_PITCHER"
+        ],
+        682990
+    ],
+    "eduardo rodriguez": [
+        "eduardo-rodriguez-19930407",
+        [
+            "STARTING_PITCHER"
+        ],
+        593958
+    ],
+    "anthony volpe": [
+        "anthony-volpe-20010428",
+        [
+            "SHORTSTOP"
+        ],
+        683011
+    ],
+    "joey wendle": [
+        "joey-wendle-19900426",
+        [
+            "SHORTSTOP"
+        ],
+        621563
+    ],
+    "tyler glasnow": [
+        "tyler-glasnow-19930823",
+        [
+            "STARTING_PITCHER"
+        ],
+        607192
+    ],
+    "jason foley": [
+        "jason-foley-19951101",
+        [
+            "RELIEF_PITCHER"
+        ],
+        671345
+    ],
+    "jeter downs": [
+        "jeter-downs-19980727",
+        [
+            "SHORTSTOP"
+        ],
+        669023
+    ],
+    "j. p. france": [
+        "j-p-france-19950404",
+        [
+            "STARTING_PITCHER"
+        ],
+        641585
+    ],
+    "jose quijada": [
+        "jose-quijada-19951109",
+        [
+            "RELIEF_PITCHER"
+        ],
+        650671
+    ],
+    "dansby swanson": [
+        "dansby-swanson-19940211",
+        [
+            "SHORTSTOP"
+        ],
+        621020
+    ],
+    "jon gray": [
+        "jon-gray-19911105",
+        [
+            "STARTING_PITCHER"
+        ],
+        592351
+    ],
+    "hunter brown": [
+        "hunter-brown-19980829",
+        [
+            "STARTING_PITCHER"
+        ],
+        686613
+    ],
+    "daniel lynch": [
+        "daniel-lynch-19961117",
+        [
+            "STARTING_PITCHER"
+        ],
+        663738
+    ],
+    "joan adon": [
+        "joan-adon-19980812",
+        [
+            "STARTING_PITCHER"
+        ],
+        672851
+    ],
+    "joey lucchesi": [
+        "joey-lucchesi-19930606",
+        [
+            "STARTING_PITCHER"
+        ],
+        664192
+    ],
+    "luis castillo": [
+        "luis-castillo-19921212",
+        [
+            "STARTING_PITCHER"
+        ],
+        622491
+    ],
+    "xavier edwards": [
+        "xavier-edwards-19990809",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP"
+        ],
+        669364
+    ],
+    "josh fleming": [
+        "josh-fleming-19960518",
+        [
+            "STARTING_PITCHER"
+        ],
+        676596
+    ],
+    "gabriel arias": [
+        "gabriel-arias-20000227",
+        [
+            "FIRST_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        672356
+    ],
+    "adley rutschman": [
+        "adley-rutschman-19980206",
+        [
+            "CATCHER",
+            "DESIGNATED_HITTER"
+        ],
+        668939
+    ],
+    "chris martin": [
+        "chris-martin-19860602",
+        [
+            "RELIEF_PITCHER"
+        ],
+        455119
+    ],
+    "jhoan duran": [
+        "jhoan-duran-19980108",
+        [
+            "RELIEF_PITCHER"
+        ],
+        661395
+    ],
+    "tyler o'neill": [
+        "tyler-oneill-19950622",
+        [
+            "OUTFIELD"
+        ],
+        641933
+    ],
+    "jesus aguilar": [
+        "jesus-aguilar-19900630",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        542583
+    ],
+    "orlando arcia": [
+        "orlando-arcia-19940804",
+        [
+            "SHORTSTOP"
+        ],
+        606115
+    ],
+    "taylor rogers": [
+        "taylor-rogers-19901217",
+        [
+            "RELIEF_PITCHER"
+        ],
+        573124
+    ],
+    "vinnie pasquantino": [
+        "vinnie-pasquantino-19971010",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        686469
+    ],
+    "nick ramirez": [
+        "nick-ramirez-19890801",
+        [
+            "RELIEF_PITCHER"
+        ],
+        598286
+    ],
+    "dane dunning": [
+        "dane-dunning-19941220",
+        [
+            "STARTING_PITCHER"
+        ],
+        641540
+    ],
+    "curt casali": [
+        "curt-casali-19881109",
+        [
+            "CATCHER"
+        ],
+        592200
+    ],
+    "kevin kelly": [
+        "kevin-kelly-19971128",
+        [
+            "RELIEF_PITCHER"
+        ],
+        687330
+    ],
+    "masyn winn": [
+        "masyn-winn-20020321",
+        [
+            "SHORTSTOP"
+        ],
+        691026
+    ],
+    "jazz chisholm": [
+        "jazz-chisholm-jr-19980201",
+        [
+            "OUTFIELD"
+        ],
+        665862
+    ],
+    "johan rojas": [
+        "johan-rojas-20000814",
+        [
+            "OUTFIELD"
+        ],
+        679032
+    ],
+    "eric lauer": [
+        "eric-lauer-19950603",
+        [
+            "STARTING_PITCHER"
+        ],
+        641778
+    ],
+    "yoan moncada": [
+        "yoan-moncada-19950527",
+        [
+            "THIRD_BASE"
+        ],
+        660162
+    ],
+    "logan gilbert": [
+        "logan-gilbert-19970505",
+        [
+            "STARTING_PITCHER"
+        ],
+        669302
+    ],
+    "logan gillaspie": [
+        "logan-gillaspie-19970417",
+        [
+            "RELIEF_PITCHER"
+        ],
+        670810
+    ],
+    "reid detmers": [
+        "reid-detmers-19990708",
+        [
+            "STARTING_PITCHER"
+        ],
+        672282
+    ],
+    "mason miller": [
+        "mason-miller-19980824",
+        [
+            "STARTING_PITCHER"
+        ],
+        695243
+    ],
+    "geraldo perdomo": [
+        "geraldo-perdomo-19991022",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        672695
+    ],
+    "evan phillips": [
+        "evan-phillips-19940911",
+        [
+            "RELIEF_PITCHER"
+        ],
+        623465
+    ],
+    "kyle harrison": [
+        "kyle-harrison-20010812",
+        [
+            "STARTING_PITCHER"
+        ],
+        690986
+    ],
+    "mike tauchman": [
+        "mike-tauchman-19901203",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        643565
+    ],
+    "jojo romero": [
+        "jojo-romero-19960909",
+        [
+            "RELIEF_PITCHER"
+        ],
+        668941
+    ],
+    "casey schmitt": [
+        "casey-schmitt-19990301",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        669477
+    ],
+    "adam duvall": [
+        "adam-duvall-19880904",
+        [
+            "OUTFIELD"
+        ],
+        594807
+    ],
+    "nick ahmed": [
+        "nick-ahmed-19900315",
+        [
+            "SHORTSTOP"
+        ],
+        605113
+    ],
+    "brandon williamson": [
+        "brandon-williamson-19980402",
+        [
+            "STARTING_PITCHER"
+        ],
+        682227
+    ],
+    "devin williams": [
+        "devin-williams-19940921",
+        [
+            "RELIEF_PITCHER"
+        ],
+        642207
+    ],
+    "jonathan heasley": [
+        "jonathan-heasley-19970127",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669169
+    ],
+    "alex call": [
+        "alex-call-19940927",
+        [
+            "OUTFIELD"
+        ],
+        669743
+    ],
+    "willi castro": [
+        "willi-castro-19970424",
+        [
+            "THIRD_BASE",
+            "OUTFIELD"
+        ],
+        650489
+    ],
+    "spencer strider": [
+        "spencer-strider-19981028",
+        [
+            "STARTING_PITCHER"
+        ],
+        675911
+    ],
+    "triston casas": [
+        "triston-casas-20000115",
+        [
+            "FIRST_BASE"
+        ],
+        671213
+    ],
+    "andrew abbott": [
+        "andrew-abbott-19990601",
+        [
+            "STARTING_PITCHER"
+        ],
+        671096
+    ],
+    "ji man choi": [
+        "ji-man-choi-19910519",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        596847
+    ],
+    "cal quantrill": [
+        "cal-quantrill-19950210",
+        [
+            "STARTING_PITCHER"
+        ],
+        615698
+    ],
+    "michael massey": [
+        "michael-massey-19980322",
+        [
+            "SECOND_BASE"
+        ],
+        686681
+    ],
+    "miguel rojas": [
+        "miguel-rojas-19890224",
+        [
+            "SHORTSTOP"
+        ],
+        500743
+    ],
+    "blake sabol": [
+        "blake-sabol-19980107",
+        [
+            "CATCHER",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        666165
+    ],
+    "spencer turnbull": [
+        "spencer-turnbull-19920918",
+        [
+            "STARTING_PITCHER"
+        ],
+        605513
+    ],
+    "reynaldo lopez": [
+        "reynaldo-lopez-19940104",
+        [
+            "RELIEF_PITCHER"
+        ],
+        625643
+    ],
+    "michael taylor": [
+        "michael-a-taylor-19910326",
+        [
+            "OUTFIELD"
+        ],
+        572191
+    ],
+    "tommy henry": [
+        "tommy-henry-19970729",
+        [
+            "STARTING_PITCHER"
+        ],
+        674072
+    ],
+    "garrett stubbs": [
+        "garrett-stubbs-19930526",
+        [
+            "CATCHER"
+        ],
+        596117
+    ],
+    "kyle tucker": [
+        "kyle-tucker-19970117",
+        [
+            "OUTFIELD"
+        ],
+        663656
+    ],
+    "alex lange": [
+        "alex-lange-19951002",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656638
+    ],
+    "bryan reynolds": [
+        "bryan-reynolds-19950127",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        668804
+    ],
+    "edmundo sosa": [
+        "edmundo-sosa-19960306",
+        [
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        624641
+    ],
+    "trevor rogers": [
+        "trevor-rogers-19971113",
+        [
+            "STARTING_PITCHER"
+        ],
+        669432
+    ],
+    "victor caratini": [
+        "victor-caratini-19930817",
+        [
+            "CATCHER"
+        ],
+        605170
+    ],
+    "yonny hernandez": [
+        "yonny-hernandez-19980504",
+        [
+            "THIRD_BASE"
+        ],
+        660634
+    ],
+    "connor seabold": [
+        "connor-seabold-19960124",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        657756
+    ],
+    "max fried": [
+        "max-fried-19940118",
+        [
+            "STARTING_PITCHER"
+        ],
+        608331
+    ],
+    "zack thompson": [
+        "zack-thompson-19971028",
+        [
+            "RELIEF_PITCHER"
+        ],
+        668868
+    ],
+    "michael harris": [
+        "michael-harris-ii-20010307",
+        [
+            "OUTFIELD"
+        ],
+        671739
+    ],
+    "emilio pagan": [
+        "emilio-pagan-19910507",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641941
+    ],
+    "connor phillips": [
+        "connor-phillips-20010504",
+        [
+            "STARTING_PITCHER"
+        ],
+        683175
+    ],
+    "michael stefanic": [
+        "michael-stefanic-19960224",
+        [
+            "SECOND_BASE"
+        ],
+        683021
+    ],
+    "franchy cordero": [
+        "franchy-cordero-19940902",
+        [
+            "OUTFIELD"
+        ],
+        614173
+    ],
+    "manuel margot": [
+        "manuel-margot-19940928",
+        [
+            "OUTFIELD"
+        ],
+        622534
+    ],
+    "cody morris": [
+        "cody-morris-19961104",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663752
+    ],
+    "dany jimenez": [
+        "dany-jimenez-19931223",
+        [
+            "RELIEF_PITCHER"
+        ],
+        666204
+    ],
+    "david bednar": [
+        "david-bednar-19941010",
+        [
+            "RELIEF_PITCHER"
+        ],
+        670280
+    ],
+    "yonny chirinos": [
+        "yonny-chirinos-19931226",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        630023
+    ],
+    "edwin rios": [
+        "edwin-rios-19940421",
+        [
+            "DESIGNATED_HITTER"
+        ],
+        621458
+    ],
+    "jose abreu": [
+        "jose-abreu-19870129",
+        [
+            "FIRST_BASE"
+        ],
+        547989
+    ],
+    "bobby dalbec": [
+        "bobby-dalbec-19950629",
+        [
+            "FIRST_BASE"
+        ],
+        666915
+    ],
+    "josh smith": [
+        "josh-smith-19970807",
+        [
+            "THIRD_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        669701
+    ],
+    "harold castro": [
+        "harold-castro-19931130",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        605612
+    ],
+    "jake mccarthy": [
+        "jake-mccarthy-19970730",
+        [
+            "OUTFIELD"
+        ],
+        664983
+    ],
+    "bryson stott": [
+        "bryson-stott-19971006",
+        [
+            "SECOND_BASE"
+        ],
+        681082
+    ],
+    "jordan diaz": [
+        "jordan-diaz-20000813",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        672478
+    ],
+    "matt duffy": [
+        "matt-duffy-19910115",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        622110
+    ],
+    "cole sulser": [
+        "cole-sulser-19900312",
+        [
+            "RELIEF_PITCHER"
+        ],
+        642121
+    ],
+    "erich uelmen": [
+        "erich-uelmen-19960519",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657272
+    ],
+    "taylor trammell": [
+        "taylor-trammell-19970913",
+        [
+            "OUTFIELD"
+        ],
+        666211
+    ],
+    "brian anderson": [
+        "brian-anderson-19930519",
+        [
+            "THIRD_BASE",
+            "OUTFIELD"
+        ],
+        605119
+    ],
+    "austin hays": [
+        "austin-hays-19950705",
+        [
+            "OUTFIELD"
+        ],
+        669720
+    ],
+    "francisco lindor": [
+        "francisco-lindor-19931114",
+        [
+            "SHORTSTOP"
+        ],
+        596019
+    ],
+    "hoby milner": [
+        "hoby-milner-19910113",
+        [
+            "RELIEF_PITCHER"
+        ],
+        571948
+    ],
+    "zack weiss": [
+        "zack-weiss-19920616",
+        [
+            "RELIEF_PITCHER"
+        ],
+        592848
+    ],
+    "framber valdez": [
+        "framber-valdez-19931119",
+        [
+            "STARTING_PITCHER"
+        ],
+        664285
+    ],
+    "jordan balazovic": [
+        "jordan-balazovic-19980917",
+        [
+            "RELIEF_PITCHER"
+        ],
+        666364
+    ],
+    "randal grichuk": [
+        "randal-grichuk-19910813",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        545341
+    ],
+    "chase anderson": [
+        "chase-anderson-19871130",
+        [
+            "STARTING_PITCHER"
+        ],
+        502624
+    ],
+    "gio urshela": [
+        "gio-urshela-19911011",
+        [
+            "FIRST_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        570482
+    ],
+    "fernando cruz": [
+        "fernando-cruz-19900328",
+        [
+            "RELIEF_PITCHER"
+        ],
+        518585
+    ],
+    "owen white": [
+        "owen-white-19990809",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669391
+    ],
+    "kyle wright": [
+        "kyle-wright-19951002",
+        [
+            "STARTING_PITCHER"
+        ],
+        657140
+    ],
+    "jordan montgomery": [
+        "jordan-montgomery-19921227",
+        [
+            "STARTING_PITCHER"
+        ],
+        656756
+    ],
+    "pavin smith": [
+        "pavin-smith-19960206",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        656976
+    ],
+    "james mccann": [
+        "james-mccann-19900613",
+        [
+            "CATCHER"
+        ],
+        543510
+    ],
+    "george kirby": [
+        "george-kirby-19980204",
+        [
+            "STARTING_PITCHER"
+        ],
+        669923
+    ],
+    "spencer horwitz": [
+        "spencer-horwitz-19971114",
+        [
+            "FIRST_BASE"
+        ],
+        687462
+    ],
+    "seranthony dominguez": [
+        "seranthony-dominguez-19941125",
+        [
+            "RELIEF_PITCHER"
+        ],
+        622554
+    ],
+    "taylor walls": [
+        "taylor-walls-19960710",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        670764
+    ],
+    "peter lambert": [
+        "peter-lambert-19970418",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        663567
+    ],
+    "chris taylor": [
+        "chris-taylor-19900829",
+        [
+            "THIRD_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        621035
+    ],
+    "yandy diaz": [
+        "yandy-diaz-19910808",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        650490
+    ],
+    "seth brown": [
+        "seth-brown-19920713",
+        [
+            "FIRST_BASE",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        664913
+    ],
+    "tyrone taylor": [
+        "tyrone-taylor-19940122",
+        [
+            "OUTFIELD"
+        ],
+        621438
+    ],
+    "adrian morejon": [
+        "adrian-morejon-19990227",
+        [
+            "RELIEF_PITCHER"
+        ],
+        670970
+    ],
+    "rafael devers": [
+        "rafael-devers-19961024",
+        [
+            "THIRD_BASE"
+        ],
+        646240
+    ],
+    "jorge polanco": [
+        "jorge-polanco-19930705",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        593871
+    ],
+    "sean hjelle": [
+        "sean-hjelle-19970507",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663546
+    ],
+    "pedro avila": [
+        "pedro-avila-19970114",
+        [
+            "RELIEF_PITCHER"
+        ],
+        658648
+    ],
+    "santiago espinal": [
+        "santiago-espinal-19941113",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        669289
+    ],
+    "dylan cease": [
+        "dylan-cease-19951228",
+        [
+            "STARTING_PITCHER"
+        ],
+        656302
+    ],
+    "jose cuas": [
+        "jose-cuas-19940628",
+        [
+            "RELIEF_PITCHER"
+        ],
+        621016
+    ],
+    "oscar colas": [
+        "oscar-colas-19980917",
+        [
+            "OUTFIELD"
+        ],
+        693049
+    ],
+    "eloy jimenez": [
+        "eloy-jimenez-19961127",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        650391
+    ],
+    "nathan lukes": [
+        "nathan-lukes-19940712",
+        [
+            "OUTFIELD"
+        ],
+        664770
+    ],
+    "beau brieske": [
+        "beau-brieske-19980405",
+        [
+            "RELIEF_PITCHER"
+        ],
+        689225
+    ],
+    "whit merrifield": [
+        "whit-merrifield-19890124",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        593160
+    ],
+    "cal raleigh": [
+        "cal-raleigh-19961126",
+        [
+            "CATCHER",
+            "DESIGNATED_HITTER"
+        ],
+        663728
+    ],
+    "louie varland": [
+        "louie-varland-19971209",
+        [
+            "STARTING_PITCHER"
+        ],
+        686973
+    ],
+    "yordan alvarez": [
+        "yordan-alvarez-19970627",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        670541
+    ],
+    "freddy peralta": [
+        "freddy-peralta-19960604",
+        [
+            "STARTING_PITCHER"
+        ],
+        642547
+    ],
+    "braxton garrett": [
+        "braxton-garrett-19970805",
+        [
+            "STARTING_PITCHER"
+        ],
+        666129
+    ],
+    "kyle freeland": [
+        "kyle-freeland-19930514",
+        [
+            "STARTING_PITCHER"
+        ],
+        607536
+    ],
+    "joey wiemer": [
+        "joey-wiemer-19990211",
+        [
+            "OUTFIELD"
+        ],
+        686894
+    ],
+    "ivan herrera": [
+        "ivan-herrera-20000601",
+        [
+            "CATCHER"
+        ],
+        671056
+    ],
+    "leody taveras": [
+        "leody-taveras-19980908",
+        [
+            "OUTFIELD"
+        ],
+        665750
+    ],
+    "greg weissert": [
+        "greg-weissert-19950204",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669711
+    ],
+    "luis garcia": [
+        "luis-garcia-20000516",
+        [
+            "SECOND_BASE"
+        ],
+        677651
+    ],
+    "logan allen": [
+        "logan-allen-19980905",
+        [
+            "STARTING_PITCHER"
+        ],
+        671106
+    ],
+    "andre pallante": [
+        "andre-pallante-19980918",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669467
+    ],
+    "trevor gott": [
+        "trevor-gott-19920826",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641627
+    ],
+    "david hensley": [
+        "david-hensley-19960328",
+        [
+            "SECOND_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        682073
+    ],
+    "brandon pfaadt": [
+        "brandon-pfaadt-19981015",
+        [
+            "STARTING_PITCHER"
+        ],
+        694297
+    ],
+    "alek manoah": [
+        "alek-manoah-19980109",
+        [
+            "STARTING_PITCHER"
+        ],
+        666201
+    ],
+    "j. d. davis": [
+        "j-d-davis-19930427",
+        [
+            "FIRST_BASE",
+            "THIRD_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        605204
+    ],
+    "yimi garcia": [
+        "yimi-garcia-19900818",
+        [
+            "RELIEF_PITCHER"
+        ],
+        554340
+    ],
+    "tanner rainey": [
+        "tanner-rainey-19921225",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663432
+    ],
+    "spenser watkins": [
+        "spenser-watkins-19920827",
+        [
+            "STARTING_PITCHER"
+        ],
+        657093
+    ],
+    "freddy tarnok": [
+        "freddy-tarnok-19981124",
+        [
+            "STARTING_PITCHER"
+        ],
+        676206
+    ],
+    "yainer diaz": [
+        "yainer-diaz-19980921",
+        [
+            "CATCHER",
+            "DESIGNATED_HITTER"
+        ],
+        673237
+    ],
+    "luke jackson": [
+        "luke-jackson-19910824",
+        [
+            "RELIEF_PITCHER"
+        ],
+        592426
+    ],
+    "braden shewmake": [
+        "braden-shewmake-19971119",
+        [
+            "SHORTSTOP"
+        ],
+        669699
+    ],
+    "christian encarnacion-strand": [
+        "christian-encarnacion-strand-19991201",
+        [
+            "FIRST_BASE",
+            "THIRD_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        687952
+    ],
+    "byron buxton": [
+        "byron-buxton-19931218",
+        [
+            "DESIGNATED_HITTER"
+        ],
+        621439
+    ],
+    "merrill kelly": [
+        "merrill-kelly-19881014",
+        [
+            "STARTING_PITCHER"
+        ],
+        518876
+    ],
+    "ian happ": [
+        "ian-happ-19940812",
+        [
+            "OUTFIELD"
+        ],
+        664023
+    ],
+    "eury perez": [
+        "eury-perez-20030415",
+        [
+            "STARTING_PITCHER"
+        ],
+        691587
+    ],
+    "tanner scott": [
+        "tanner-scott-19940722",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656945
+    ],
+    "richie palacios": [
+        "richie-palacios-19970516",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        680700
+    ],
+    "daulton varsho": [
+        "daulton-varsho-19960702",
+        [
+            "OUTFIELD"
+        ],
+        662139
+    ],
+    "gabriel moreno": [
+        "gabriel-moreno-20000214",
+        [
+            "CATCHER"
+        ],
+        672515
+    ],
+    "jose herrera": [
+        "jose-herrera-19970224",
+        [
+            "CATCHER"
+        ],
+        645444
+    ],
+    "reiver sanmartin": [
+        "reiver-sanmartin-19960415",
+        [
+            "RELIEF_PITCHER"
+        ],
+        665665
+    ],
+    "tommy edman": [
+        "tommy-edman-19950509",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        669242
+    ],
+    "sam haggerty": [
+        "sam-haggerty-19940526",
+        [
+            "SECOND_BASE",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        664059
+    ],
+    "brenton doyle": [
+        "brenton-doyle-19980514",
+        [
+            "OUTFIELD"
+        ],
+        686668
+    ],
+    "jesse winker": [
+        "jesse-winker-19930817",
+        [
+            "DESIGNATED_HITTER"
+        ],
+        608385
+    ],
+    "ty france": [
+        "ty-france-19940713",
+        [
+            "FIRST_BASE"
+        ],
+        664034
+    ],
+    "ryan weathers": [
+        "ryan-weathers-19991217",
+        [
+            "STARTING_PITCHER"
+        ],
+        677960
+    ],
+    "zack kelly": [
+        "zack-kelly-19950303",
+        [
+            "RELIEF_PITCHER"
+        ],
+        677161
+    ],
+    "bryan hoeing": [
+        "bryan-hoeing-19961019",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663773
+    ],
+    "alejandro kirk": [
+        "alejandro-kirk-19981106",
+        [
+            "CATCHER",
+            "DESIGNATED_HITTER"
+        ],
+        672386
+    ],
+    "austin wells": [
+        "austin-wells-19990712",
+        [
+            "CATCHER"
+        ],
+        669224
+    ],
+    "kyle lewis": [
+        "kyle-lewis-19950713",
+        [
+            "DESIGNATED_HITTER"
+        ],
+        641786
+    ],
+    "riley adams": [
+        "riley-adams-19960626",
+        [
+            "CATCHER"
+        ],
+        656180
+    ],
+    "ryan tepera": [
+        "ryan-tepera-19871103",
+        [
+            "RELIEF_PITCHER"
+        ],
+        572193
+    ],
+    "luis frias": [
+        "luis-frias-19980523",
+        [
+            "RELIEF_PITCHER"
+        ],
+        666818
+    ],
+    "george springer": [
+        "george-springer-19890919",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        543807
+    ],
+    "oscar gonzalez": [
+        "oscar-gonzalez-19980110",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        660757
+    ],
+    "jose trevino": [
+        "jose-trevino-19921128",
+        [
+            "CATCHER"
+        ],
+        624431
+    ],
+    "tom murphy": [
+        "tom-murphy-19910403",
+        [
+            "CATCHER"
+        ],
+        608596
+    ],
+    "jose alvarado": [
+        "jose-alvarado-19950521",
+        [
+            "RELIEF_PITCHER"
+        ],
+        621237
+    ],
+    "kyle hendricks": [
+        "kyle-hendricks-19891207",
+        [
+            "STARTING_PITCHER"
+        ],
+        543294
+    ],
+    "reese olson": [
+        "reese-olson-19990731",
+        [
+            "STARTING_PITCHER"
+        ],
+        681857
+    ],
+    "cionel perez": [
+        "cionel-perez-19960421",
+        [
+            "RELIEF_PITCHER"
+        ],
+        672335
+    ],
+    "julio urias": [
+        "julio-urias-19960812",
+        [
+            "STARTING_PITCHER"
+        ],
+        628711
+    ],
+    "rob refsnyder": [
+        "rob-refsnyder-19910326",
+        [
+            "OUTFIELD"
+        ],
+        608701
+    ],
+    "adam cimber": [
+        "adam-cimber-19900815",
+        [
+            "RELIEF_PITCHER"
+        ],
+        643256
+    ],
+    "akil baddoo": [
+        "akil-baddoo-19980816",
+        [
+            "OUTFIELD"
+        ],
+        668731
+    ],
+    "carlos vargas": [
+        "carlos-vargas-19991013",
+        [
+            "RELIEF_PITCHER"
+        ],
+        672841
+    ],
+    "jimmy cordero": [
+        "jimmy-cordero-19911019",
+        [
+            "RELIEF_PITCHER"
+        ],
+        622772
+    ],
+    "austin hedges": [
+        "austin-hedges-19920818",
+        [
+            "CATCHER"
+        ],
+        595978
+    ],
+    "joel payamps": [
+        "joel-payamps-19940407",
+        [
+            "RELIEF_PITCHER"
+        ],
+        606303
+    ],
+    "mitch white": [
+        "mitch-white-19941228",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669952
+    ],
+    "joel kuhnel": [
+        "joel-kuhnel-19950219",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669270
+    ],
+    "sean bouchard": [
+        "sean-bouchard-19960516",
+        [
+            "FIRST_BASE",
+            "OUTFIELD"
+        ],
+        656248
+    ],
+    "emmet sheehan": [
+        "emmet-sheehan-19991115",
+        [
+            "STARTING_PITCHER"
+        ],
+        686218
+    ],
+    "zach davies": [
+        "zach-davies-19930207",
+        [
+            "STARTING_PITCHER"
+        ],
+        605200
+    ],
+    "ryne stanek": [
+        "ryne-stanek-19910726",
+        [
+            "RELIEF_PITCHER"
+        ],
+        592773
+    ],
+    "sam huff": [
+        "sam-huff-19980114",
+        [
+            "CATCHER"
+        ],
+        669087
+    ],
+    "john brebbia": [
+        "john-brebbia-19900530",
+        [
+            "RELIEF_PITCHER"
+        ],
+        605154
+    ],
+    "scott alexander": [
+        "scott-alexander-19890710",
+        [
+            "RELIEF_PITCHER"
+        ],
+        518397
+    ],
+    "tyler stephenson": [
+        "tyler-stephenson-19960816",
+        [
+            "CATCHER",
+            "DESIGNATED_HITTER"
+        ],
+        663886
+    ],
+    "tyler freeman": [
+        "tyler-freeman-19990521",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        671289
+    ],
+    "myles straw": [
+        "myles-straw-19941017",
+        [
+            "OUTFIELD"
+        ],
+        664702
+    ],
+    "johan oviedo": [
+        "johan-oviedo-19980302",
+        [
+            "STARTING_PITCHER"
+        ],
+        670912
+    ],
+    "gavin sheets": [
+        "gavin-sheets-19960423",
+        [
+            "FIRST_BASE",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        657757
+    ],
+    "keegan akin": [
+        "keegan-akin-19950401",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669211
+    ],
+    "pete alonso": [
+        "pete-alonso-19941207",
+        [
+            "FIRST_BASE"
+        ],
+        624413
+    ],
+    "josh rojas": [
+        "josh-rojas-19940630",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        668942
+    ],
+    "kolby allard": [
+        "kolby-allard-19970813",
+        [
+            "STARTING_PITCHER"
+        ],
+        663465
+    ],
+    "carlos rodon": [
+        "carlos-rodon-19921210",
+        [
+            "STARTING_PITCHER"
+        ],
+        607074
+    ],
+    "anthony santander": [
+        "anthony-santander-19941019",
+        [
+            "FIRST_BASE",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        623993
+    ],
+    "adam oller": [
+        "adam-oller-19941017",
+        [
+            "RELIEF_PITCHER"
+        ],
+        670124
+    ],
+    "drey jameson": [
+        "drey-jameson-19970817",
+        [
+            "RELIEF_PITCHER"
+        ],
+        686753
+    ],
+    "joe musgrove": [
+        "joe-musgrove-19921204",
+        [
+            "STARTING_PITCHER"
+        ],
+        605397
+    ],
+    "carlos correa": [
+        "carlos-correa-19940922",
+        [
+            "SHORTSTOP"
+        ],
+        621043
+    ],
+    "dylan floro": [
+        "dylan-floro-19901227",
+        [
+            "RELIEF_PITCHER"
+        ],
+        571670
+    ],
+    "ian gibaut": [
+        "ian-gibaut-19931119",
+        [
+            "RELIEF_PITCHER"
+        ],
+        664139
+    ],
+    "enmanuel valdez": [
+        "enmanuel-valdez-19981228",
+        [
+            "SECOND_BASE"
+        ],
+        665839
+    ],
+    "brandon nimmo": [
+        "brandon-nimmo-19930327",
+        [
+            "OUTFIELD"
+        ],
+        607043
+    ],
+    "brett baty": [
+        "brett-baty-19991113",
+        [
+            "THIRD_BASE"
+        ],
+        683146
+    ],
+    "jeff brigham": [
+        "jeff-brigham-19920216",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656257
+    ],
+    "nick lodolo": [
+        "nick-lodolo-19980205",
+        [
+            "STARTING_PITCHER"
+        ],
+        666157
+    ],
+    "bryce elder": [
+        "bryce-elder-19990519",
+        [
+            "STARTING_PITCHER"
+        ],
+        693821
+    ],
+    "michael conforto": [
+        "michael-conforto-19930301",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        624424
+    ],
+    "brandon bielak": [
+        "brandon-bielak-19960402",
+        [
+            "STARTING_PITCHER"
+        ],
+        656232
+    ],
+    "dustin may": [
+        "dustin-may-19970906",
+        [
+            "STARTING_PITCHER"
+        ],
+        669160
+    ],
+    "adam frazier": [
+        "adam-frazier-19911214",
+        [
+            "SECOND_BASE"
+        ],
+        624428
+    ],
+    "kendall graveman": [
+        "kendall-graveman-19901221",
+        [
+            "RELIEF_PITCHER"
+        ],
+        608665
+    ],
+    "penn murfee": [
+        "penn-murfee-19940502",
+        [
+            "RELIEF_PITCHER"
+        ],
+        682171
+    ],
+    "gregory santos": [
+        "gregory-santos-19990828",
+        [
+            "RELIEF_PITCHER"
+        ],
+        666619
+    ],
+    "lars nootbaar": [
+        "lars-nootbaar-19970908",
+        [
+            "OUTFIELD"
+        ],
+        663457
+    ],
+    "kyle bradish": [
+        "kyle-bradish-19960912",
+        [
+            "STARTING_PITCHER"
+        ],
+        680694
+    ],
+    "griffin jax": [
+        "griffin-jax-19941122",
+        [
+            "RELIEF_PITCHER"
+        ],
+        643377
+    ],
+    "lawrence butler": [
+        "lawrence-butler-20000710",
+        [
+            "OUTFIELD"
+        ],
+        671732
+    ],
+    "brendan rodgers": [
+        "brendan-rodgers-19960809",
+        [
+            "SECOND_BASE"
+        ],
+        663898
+    ],
+    "ryan mountcastle": [
+        "ryan-mountcastle-19970218",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        663624
+    ],
+    "edward cabrera": [
+        "edward-cabrera-19980413",
+        [
+            "STARTING_PITCHER"
+        ],
+        665795
+    ],
+    "amed rosario": [
+        "amed-rosario-19951120",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP"
+        ],
+        642708
+    ],
+    "ozzie albies": [
+        "ozzie-albies-19970107",
+        [
+            "SECOND_BASE"
+        ],
+        645277
+    ],
+    "jordan weems": [
+        "jordan-weems-19921107",
+        [
+            "RELIEF_PITCHER"
+        ],
+        607179
+    ],
+    "eli white": [
+        "eli-white-19940626",
+        [
+            "OUTFIELD"
+        ],
+        642201
+    ],
+    "hunter harvey": [
+        "hunter-harvey-19941209",
+        [
+            "RELIEF_PITCHER"
+        ],
+        640451
+    ],
+    "alan trejo": [
+        "alan-trejo-19960530",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        676701
+    ],
+    "zach eflin": [
+        "zach-eflin-19940408",
+        [
+            "STARTING_PITCHER"
+        ],
+        621107
+    ],
+    "mookie betts": [
+        "mookie-betts-19921007",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        605141
+    ],
+    "gavin williams": [
+        "gavin-williams-19990726",
+        [
+            "STARTING_PITCHER"
+        ],
+        668909
+    ],
+    "jose ruiz": [
+        "jose-ruiz-19941021",
+        [
+            "RELIEF_PITCHER"
+        ],
+        614179
+    ],
+    "tony gonsolin": [
+        "tony-gonsolin-19940514",
+        [
+            "STARTING_PITCHER"
+        ],
+        664062
+    ],
+    "david peterson": [
+        "david-peterson-19950903",
+        [
+            "STARTING_PITCHER"
+        ],
+        656849
+    ],
+    "ketel marte": [
+        "ketel-marte-19931012",
+        [
+            "SECOND_BASE"
+        ],
+        606466
+    ],
+    "nick maton": [
+        "nick-maton-19970218",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        665155
+    ],
+    "adolis garcia": [
+        "adolis-garcia-19930302",
+        [
+            "OUTFIELD"
+        ],
+        666969
+    ],
+    "trevor richards": [
+        "trevor-richards-19930515",
+        [
+            "RELIEF_PITCHER"
+        ],
+        670950
+    ],
+    "brad keller": [
+        "brad-keller-19950727",
+        [
+            "STARTING_PITCHER"
+        ],
+        641745
+    ],
+    "jonah bride": [
+        "jonah-bride-19951227",
+        [
+            "THIRD_BASE"
+        ],
+        681146
+    ],
+    "taylor ward": [
+        "taylor-ward-19931214",
+        [
+            "OUTFIELD"
+        ],
+        621493
+    ],
+    "alex kirilloff": [
+        "alex-kirilloff-19971109",
+        [
+            "FIRST_BASE",
+            "OUTFIELD"
+        ],
+        666135
+    ],
+    "abraham toro": [
+        "abraham-toro-19961220",
+        [
+            "THIRD_BASE"
+        ],
+        647351
+    ],
+    "tyler holton": [
+        "tyler-holton-19960613",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663947
+    ],
+    "jared triolo": [
+        "jared-triolo-19980208",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        669707
+    ],
+    "omar narvaez": [
+        "omar-narvaez-19920210",
+        [
+            "CATCHER"
+        ],
+        553882
+    ],
+    "jake irvin": [
+        "jake-irvin-19970218",
+        [
+            "STARTING_PITCHER"
+        ],
+        663623
+    ],
+    "graham ashcraft": [
+        "graham-ashcraft-19980211",
+        [
+            "STARTING_PITCHER"
+        ],
+        668933
+    ],
+    "garrett crochet": [
+        "garrett-crochet-19990621",
+        [
+            "RELIEF_PITCHER"
+        ],
+        676979
+    ],
+    "jake meyers": [
+        "jake-meyers-19960618",
+        [
+            "OUTFIELD"
+        ],
+        676694
+    ],
+    "chris devenski": [
+        "chris-devenski-19901113",
+        [
+            "RELIEF_PITCHER"
+        ],
+        606965
+    ],
+    "dan vogelbach": [
+        "daniel-vogelbach-19921217",
+        [
+            "DESIGNATED_HITTER"
+        ],
+        596129
+    ],
+    "paolo espino": [
+        "paolo-espino-19870110",
+        [
+            "RELIEF_PITCHER"
+        ],
+        502179
+    ],
+    "victor gonzalez": [
+        "victor-gonzalez-19951116",
+        [
+            "RELIEF_PITCHER"
+        ],
+        624647
+    ],
+    "dominic leone": [
+        "dominic-leone-19911026",
+        [
+            "RELIEF_PITCHER"
+        ],
+        608678
+    ],
+    "alec burleson": [
+        "alec-burleson-19981125",
+        [
+            "FIRST_BASE",
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        676475
+    ],
+    "jeremiah estrada": [
+        "jeremiah-estrada-19981101",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669093
+    ],
+    "vince velasquez": [
+        "vince-velasquez-19920607",
+        [
+            "STARTING_PITCHER"
+        ],
+        592826
+    ],
+    "josh winckowski": [
+        "josh-winckowski-19980628",
+        [
+            "RELIEF_PITCHER"
+        ],
+        670174
+    ],
+    "bubba thompson": [
+        "bubba-thompson-19980609",
+        [
+            "OUTFIELD"
+        ],
+        669352
+    ],
+    "cristian javier": [
+        "cristian-javier-19970326",
+        [
+            "STARTING_PITCHER"
+        ],
+        664299
+    ],
+    "pete fairbanks": [
+        "pete-fairbanks-19931216",
+        [
+            "RELIEF_PITCHER"
+        ],
+        664126
+    ],
+    "ryan feltner": [
+        "ryan-feltner-19960902",
+        [
+            "STARTING_PITCHER"
+        ],
+        663372
+    ],
+    "gleyber torres": [
+        "gleyber-torres-19961213",
+        [
+            "SECOND_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        650402
+    ],
+    "yennier cano": [
+        "yennier-cano-19940309",
+        [
+            "RELIEF_PITCHER"
+        ],
+        666974
+    ],
+    "nick vespi": [
+        "nick-vespi-19951010",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663989
+    ],
+    "zach plesac": [
+        "zach-plesac-19950121",
+        [
+            "STARTING_PITCHER"
+        ],
+        668676
+    ],
+    "edouard julien": [
+        "edouard-julien-19990430",
+        [
+            "SECOND_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        666397
+    ],
+    "luis urias": [
+        "luis-urias-19970603",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        649966
+    ],
+    "willson contreras": [
+        "willson-contreras-19920513",
+        [
+            "CATCHER",
+            "DESIGNATED_HITTER"
+        ],
+        575929
+    ],
+    "brandon hughes": [
+        "brandon-hughes-19951201",
+        [
+            "RELIEF_PITCHER"
+        ],
+        676714
+    ],
+    "isaac paredes": [
+        "isaac-paredes-19990218",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        670623
+    ],
+    "joe barlow": [
+        "joe-barlow-19950928",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669618
+    ],
+    "adam engel": [
+        "adam-engel-19911209",
+        [
+            "OUTFIELD"
+        ],
+        641553
+    ],
+    "jarren duran": [
+        "jarren-duran-19960905",
+        [
+            "OUTFIELD"
+        ],
+        680776
+    ],
+    "lucas giolito": [
+        "lucas-giolito-19940714",
+        [
+            "STARTING_PITCHER"
+        ],
+        608337
+    ],
+    "jose leclerc": [
+        "jose-leclerc-19931219",
+        [
+            "RELIEF_PITCHER"
+        ],
+        600917
+    ],
+    "joey bart": [
+        "joey-bart-19961215",
+        [
+            "CATCHER"
+        ],
+        663698
+    ],
+    "drew rucinski": [
+        "drew-rucinski-19881230",
+        [
+            "STARTING_PITCHER"
+        ],
+        607968
+    ],
+    "andres munoz": [
+        "andres-munoz-19990116",
+        [
+            "RELIEF_PITCHER"
+        ],
+        662253
+    ],
+    "wander franco": [
+        "wander-franco-20010301",
+        [
+            "SHORTSTOP"
+        ],
+        677551
+    ],
+    "cam gallagher": [
+        "cam-gallagher-19921206",
+        [
+            "CATCHER"
+        ],
+        595956
+    ],
+    "matt mclain": [
+        "matt-mclain-19990806",
+        [
+            "SECOND_BASE",
+            "SHORTSTOP"
+        ],
+        680574
+    ],
+    "jason adam": [
+        "jason-adam-19910804",
+        [
+            "RELIEF_PITCHER"
+        ],
+        592094
+    ],
+    "miguel vargas": [
+        "miguel-vargas-19991117",
+        [
+            "SECOND_BASE"
+        ],
+        678246
+    ],
+    "tj friedl": [
+        "tj-friedl-19950814",
+        [
+            "OUTFIELD"
+        ],
+        670770
+    ],
+    "jorge alcala": [
+        "jorge-alcala-19950728",
+        [
+            "RELIEF_PITCHER"
+        ],
+        660896
+    ],
+    "cole irvin": [
+        "cole-irvin-19940131",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        608344
+    ],
+    "maikel garcia": [
+        "maikel-garcia-20000303",
+        [
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        672580
+    ],
+    "dylan carlson": [
+        "dylan-carlson-19981023",
+        [
+            "OUTFIELD"
+        ],
+        666185
+    ],
+    "jace peterson": [
+        "jace-peterson-19900509",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        607054
+    ],
+    "gunnar henderson": [
+        "gunnar-henderson-20010629",
+        [
+            "THIRD_BASE",
+            "SHORTSTOP",
+            "DESIGNATED_HITTER"
+        ],
+        683002
+    ],
+    "brayan bello": [
+        "brayan-bello-19990517",
+        [
+            "STARTING_PITCHER"
+        ],
+        678394
+    ],
+    "sean murphy": [
+        "sean-murphy-19941004",
+        [
+            "CATCHER"
+        ],
+        669221
+    ],
+    "josh sborz": [
+        "josh-sborz-19931217",
+        [
+            "RELIEF_PITCHER"
+        ],
+        622250
+    ],
+    "ryan yarbrough": [
+        "ryan-yarbrough-19911231",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        642232
+    ],
+    "jesus luzardo": [
+        "jesus-luzardo-19970930",
+        [
+            "STARTING_PITCHER"
+        ],
+        666200
+    ],
+    "tim mayza": [
+        "tim-mayza-19920115",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641835
+    ],
+    "matthew liberatore": [
+        "matthew-liberatore-19991106",
+        [
+            "STARTING_PITCHER"
+        ],
+        669461
+    ],
+    "jake cousins": [
+        "jake-cousins-19940714",
+        [
+            "RELIEF_PITCHER"
+        ],
+        664776
+    ],
+    "jack flaherty": [
+        "jack-flaherty-19951015",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        656427
+    ],
+    "triston mckenzie": [
+        "triston-mckenzie-19970802",
+        [
+            "STARTING_PITCHER"
+        ],
+        663474
+    ],
+    "spencer torkelson": [
+        "spencer-torkelson-19990826",
+        [
+            "FIRST_BASE"
+        ],
+        679529
+    ],
+    "kyle nelson": [
+        "kyle-nelson-19960708",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669459
+    ],
+    "jeremy pena": [
+        "jeremy-pena-19970922",
+        [
+            "SHORTSTOP"
+        ],
+        665161
+    ],
+    "roansy contreras": [
+        "roansy-contreras-19991107",
+        [
+            "STARTING_PITCHER"
+        ],
+        672710
+    ],
+    "cade marlowe": [
+        "cade-marlowe-19970624",
+        [
+            "OUTFIELD"
+        ],
+        687799
+    ],
+    "jakob junis": [
+        "jakob-junis-19920916",
+        [
+            "RELIEF_PITCHER"
+        ],
+        596001
+    ],
+    "austin meadows": [
+        "austin-meadows-19950503",
+        [
+            "OUTFIELD"
+        ],
+        640457
+    ],
+    "will vest": [
+        "will-vest-19950606",
+        [
+            "RELIEF_PITCHER"
+        ],
+        676684
+    ],
+    "john curtiss": [
+        "john-curtiss-19930405",
+        [
+            "RELIEF_PITCHER"
+        ],
+        595928
+    ],
+    "emmanuel rivera": [
+        "emmanuel-rivera-19960629",
+        [
+            "FIRST_BASE",
+            "THIRD_BASE"
+        ],
+        656896
+    ],
+    "jake fraley": [
+        "jake-fraley-19950525",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        641584
+    ],
+    "jonathan hernandez": [
+        "jonathan-hernandez-19960706",
+        [
+            "RELIEF_PITCHER"
+        ],
+        642546
+    ],
+    "zach pop": [
+        "zach-pop-19960920",
+        [
+            "RELIEF_PITCHER"
+        ],
+        647315
+    ],
+    "nick madrigal": [
+        "nick-madrigal-19970305",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE"
+        ],
+        663611
+    ],
+    "erik swanson": [
+        "erik-swanson-19930904",
+        [
+            "RELIEF_PITCHER"
+        ],
+        657024
+    ],
+    "tommy pham": [
+        "tommy-pham-19880308",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        502054
+    ],
+    "chris stratton": [
+        "chris-stratton-19900822",
+        [
+            "RELIEF_PITCHER"
+        ],
+        608717
+    ],
+    "jordan luplow": [
+        "jordan-luplow-19930926",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        656669
+    ],
+    "brandon dixon": [
+        "brandon-dixon-19920129",
+        [
+            "FIRST_BASE",
+            "THIRD_BASE",
+            "OUTFIELD"
+        ],
+        641525
+    ],
+    "j. p. martinez": [
+        "j-d-martinez-19870821",
+        [
+            "DESIGNATED_HITTER"
+        ],
+        679881
+    ],
+    "dinelson lamet": [
+        "dinelson-lamet-19920718",
+        [
+            "RELIEF_PITCHER"
+        ],
+        659275
+    ],
+    "kody clemens": [
+        "kody-clemens-19960515",
+        [
+            "FIRST_BASE"
+        ],
+        665019
+    ],
+    "dl hall": [
+        "dl-hall-19980919",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669084
+    ],
+    "josh winder": [
+        "josh-winder-19961011",
+        [
+            "RELIEF_PITCHER"
+        ],
+        680739
+    ],
+    "tyler wells": [
+        "tyler-wells-19940826",
+        [
+            "STARTING_PITCHER"
+        ],
+        669330
+    ],
+    "korey lee": [
+        "korey-lee-19980725",
+        [
+            "CATCHER"
+        ],
+        686676
+    ],
+    "tucker barnhart": [
+        "tucker-barnhart-19910107",
+        [
+            "CATCHER"
+        ],
+        571466
+    ],
+    "taj bradley": [
+        "taj-bradley-20010320",
+        [
+            "STARTING_PITCHER"
+        ],
+        671737
+    ],
+    "eli morgan": [
+        "eli-morgan-19960513",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669212
+    ],
+    "samad taylor": [
+        "samad-taylor-19980711",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        669392
+    ],
+    "matt strahm": [
+        "matt-strahm-19911112",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        621381
+    ],
+    "trea turner": [
+        "trea-turner-19930630",
+        [
+            "SHORTSTOP"
+        ],
+        607208
+    ],
+    "ji hwan bae": [
+        "ji-hwan-bae-19990726",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        678225
+    ],
+    "jose miranda": [
+        "jose-miranda-19980629",
+        [
+            "THIRD_BASE"
+        ],
+        669304
+    ],
+    "brandon walter": [
+        "brandon-walter-19960908",
+        [
+            "RELIEF_PITCHER"
+        ],
+        687888
+    ],
+    "keynan middleton": [
+        "keynan-middleton-19930912",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641871
+    ],
+    "gregory soto": [
+        "gregory-soto-19950211",
+        [
+            "RELIEF_PITCHER"
+        ],
+        642397
+    ],
+    "seiya suzuki": [
+        "seiya-suzuki-19940818",
+        [
+            "OUTFIELD"
+        ],
+        673548
+    ],
+    "shea langeliers": [
+        "shea-langeliers-19971118",
+        [
+            "CATCHER"
+        ],
+        669127
+    ],
+    "mike clevinger": [
+        "mike-clevinger-19901221",
+        [
+            "STARTING_PITCHER"
+        ],
+        605182
+    ],
+    "hunter dozier": [
+        "hunter-dozier-19910822",
+        [
+            "THIRD_BASE"
+        ],
+        641531
+    ],
+    "joey meneses": [
+        "joey-meneses-19920506",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        608841
+    ],
+    "christian vazquez": [
+        "christian-vazquez-19900821",
+        [
+            "CATCHER"
+        ],
+        543877
+    ],
+    "bryce miller": [
+        "bryce-miller-19980823",
+        [
+            "STARTING_PITCHER"
+        ],
+        682243
+    ],
+    "james karinchak": [
+        "james-karinchak-19950922",
+        [
+            "RELIEF_PITCHER"
+        ],
+        675916
+    ],
+    "hunter renfroe": [
+        "hunter-renfroe-19920128",
+        [
+            "OUTFIELD"
+        ],
+        592669
+    ],
+    "stuart fairchild": [
+        "stuart-fairchild-19960317",
+        [
+            "OUTFIELD"
+        ],
+        656413
+    ],
+    "michael rucker": [
+        "michael-rucker-19940427",
+        [
+            "RELIEF_PITCHER"
+        ],
+        621074
+    ],
+    "colin poche": [
+        "colin-poche-19940117",
+        [
+            "RELIEF_PITCHER"
+        ],
+        621363
+    ],
+    "nick nelson": [
+        "nick-nelson-19951205",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656793
+    ],
+    "anthony desclafani": [
+        "anthony-desclafani-19900418",
+        [
+            "STARTING_PITCHER"
+        ],
+        543101
+    ],
+    "reese mcguire": [
+        "reese-mcguire-19950302",
+        [
+            "CATCHER"
+        ],
+        624512
+    ],
+    "vidal brujan": [
+        "vidal-brujan-19980209",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        660644
+    ],
+    "brendan white": [
+        "brendan-white-19981118",
+        [
+            "RELIEF_PITCHER"
+        ],
+        686839
+    ],
+    "gavin hollowell": [
+        "gavin-hollowell-19971104",
+        [
+            "RELIEF_PITCHER"
+        ],
+        668970
+    ],
+    "christian arroyo": [
+        "christian-arroyo-19950530",
+        [
+            "SECOND_BASE"
+        ],
+        624414
+    ],
+    "julio rodriguez": [
+        "julio-rodriguez-20001229",
+        [
+            "OUTFIELD"
+        ],
+        677594
+    ],
+    "canaan smith-njigba": [
+        "canaan-smith-njigba-19990430",
+        [
+            "OUTFIELD"
+        ],
+        675986
+    ],
+    "endy rodriguez": [
+        "endy-rodriguez-20000526",
+        [
+            "CATCHER"
+        ],
+        682848
+    ],
+    "alex bregman": [
+        "alex-bregman-19940330",
+        [
+            "THIRD_BASE"
+        ],
+        608324
+    ],
+    "josh hader": [
+        "josh-hader-19940407",
+        [
+            "RELIEF_PITCHER"
+        ],
+        623352
+    ],
+    "fernando tatis": [
+        "fernando-tatis-jr-19990102",
+        [
+            "OUTFIELD"
+        ],
+        665487
+    ],
+    "carson kelly": [
+        "carson-kelly-19940714",
+        [
+            "CATCHER"
+        ],
+        608348
+    ],
+    "jonathan loaisiga": [
+        "jonathan-loaisiga-19941102",
+        [
+            "RELIEF_PITCHER"
+        ],
+        642528
+    ],
+    "max muncy": [
+        "max-muncy-19900825",
+        [
+            "THIRD_BASE"
+        ],
+        571970
+    ],
+    "raimel tapia": [
+        "raimel-tapia-19940204",
+        [
+            "OUTFIELD"
+        ],
+        606132
+    ],
+    "tomas nido": [
+        "tomas-nido-19940412",
+        [
+            "CATCHER"
+        ],
+        621512
+    ],
+    "packy naughton": [
+        "packy-naughton-19960416",
+        [
+            "RELIEF_PITCHER"
+        ],
+        676050
+    ],
+    "andrew nardi": [
+        "andrew-nardi-19980818",
+        [
+            "RELIEF_PITCHER"
+        ],
+        677053
+    ],
+    "yerry rodriguez": [
+        "yerry-rodriguez-19971015",
+        [
+            "RELIEF_PITCHER"
+        ],
+        666720
+    ],
+    "tim anderson": [
+        "tim-anderson-19930623",
+        [
+            "SHORTSTOP"
+        ],
+        641313
+    ],
+    "zach mckinstry": [
+        "zach-mckinstry-19950429",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        656716
+    ],
+    "andre jackson": [
+        "andre-jackson-19960501",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656578
+    ],
+    "brandon woodruff": [
+        "brandon-woodruff-19930210",
+        [
+            "STARTING_PITCHER"
+        ],
+        605540
+    ],
+    "ryan jeffers": [
+        "ryan-jeffers-19970603",
+        [
+            "CATCHER"
+        ],
+        680777
+    ],
+    "ryan helsley": [
+        "ryan-helsley-19940718",
+        [
+            "RELIEF_PITCHER"
+        ],
+        664854
+    ],
+    "matt wallner": [
+        "matt-wallner-19971212",
+        [
+            "OUTFIELD"
+        ],
+        670242
+    ],
+    "mauricio dubon": [
+        "mauricio-dubon-19940719",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        643289
+    ],
+    "austin slater": [
+        "austin-slater-19921213",
+        [
+            "OUTFIELD"
+        ],
+        596103
+    ],
+    "camilo doval": [
+        "camilo-doval-19970704",
+        [
+            "RELIEF_PITCHER"
+        ],
+        666808
+    ],
+    "joey wentz": [
+        "joey-wentz-19971006",
+        [
+            "STARTING_PITCHER"
+        ],
+        666214
+    ],
+    "jason delay": [
+        "jason-delay-19950307",
+        [
+            "CATCHER"
+        ],
+        641511
+    ],
+    "paul dejong": [
+        "paul-dejong-19930802",
+        [
+            "SHORTSTOP"
+        ],
+        657557
+    ],
+    "will brennan": [
+        "will-brennan-19980202",
+        [
+            "OUTFIELD"
+        ],
+        686823
+    ],
+    "nestor cortes": [
+        "nestor-cortes-19941210",
+        [
+            "STARTING_PITCHER"
+        ],
+        641482
+    ],
+    "michael fulmer": [
+        "michael-fulmer-19930315",
+        [
+            "RELIEF_PITCHER"
+        ],
+        605242
+    ],
+    "paul sewald": [
+        "paul-sewald-19900526",
+        [
+            "RELIEF_PITCHER"
+        ],
+        623149
+    ],
+    "chris flexen": [
+        "chris-flexen-19940701",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        623167
+    ],
+    "austin voth": [
+        "austin-voth-19920626",
+        [
+            "RELIEF_PITCHER"
+        ],
+        608723
+    ],
+    "oswaldo cabrera": [
+        "oswaldo-cabrera-19990301",
+        [
+            "THIRD_BASE",
+            "OUTFIELD"
+        ],
+        665828
+    ],
+    "carlos estevez": [
+        "carlos-estevez-19921228",
+        [
+            "RELIEF_PITCHER"
+        ],
+        608032
+    ],
+    "corbin burnes": [
+        "corbin-burnes-19941022",
+        [
+            "STARTING_PITCHER"
+        ],
+        669203
+    ],
+    "giovanny gallegos": [
+        "giovanny-gallegos-19910814",
+        [
+            "RELIEF_PITCHER"
+        ],
+        606149
+    ],
+    "jake bird": [
+        "jake-bird-19951204",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656234
+    ],
+    "elehuris montero": [
+        "elehuris-montero-19980817",
+        [
+            "FIRST_BASE",
+            "THIRD_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        660707
+    ],
+    "nathaniel lowe": [
+        "nathaniel-lowe-19950707",
+        [
+            "FIRST_BASE"
+        ],
+        663993
+    ],
+    "andrew velazquez": [
+        "andrew-velazquez-19940714",
+        [
+            "SHORTSTOP"
+        ],
+        623205
+    ],
+    "robert stephenson": [
+        "robert-stephenson-19930224",
+        [
+            "RELIEF_PITCHER"
+        ],
+        596112
+    ],
+    "alex young": [
+        "alex-young-19930909",
+        [
+            "RELIEF_PITCHER"
+        ],
+        622065
+    ],
+    "a. j. puk": [
+        "a-j-puk-19950425",
+        [
+            "RELIEF_PITCHER"
+        ],
+        640462
+    ],
+    "zack short": [
+        "zack-short-19950529",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        670097
+    ],
+    "bryan abreu": [
+        "bryan-abreu-19970422",
+        [
+            "RELIEF_PITCHER"
+        ],
+        650556
+    ],
+    "brayan rocchio": [
+        "brayan-rocchio-20010113",
+        [
+            "SHORTSTOP"
+        ],
+        677587
+    ],
+    "john king": [
+        "john-king-19940914",
+        [
+            "RELIEF_PITCHER"
+        ],
+        667463
+    ],
+    "miguel castro": [
+        "miguel-castro-19941224",
+        [
+            "RELIEF_PITCHER"
+        ],
+        612434
+    ],
+    "justin steele": [
+        "justin-steele-19950711",
+        [
+            "STARTING_PITCHER"
+        ],
+        657006
+    ],
+    "thaddeus ward": [
+        "thad-ward-19970116",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663658
+    ],
+    "conner capel": [
+        "conner-capel-19970519",
+        [
+            "OUTFIELD"
+        ],
+        668843
+    ],
+    "nick gordon": [
+        "nick-gordon-19951024",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        624503
+    ],
+    "cavan biggio": [
+        "cavan-biggio-19950411",
+        [
+            "FIRST_BASE",
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "OUTFIELD"
+        ],
+        624415
+    ],
+    "wandy peralta": [
+        "wandy-peralta-19910727",
+        [
+            "RELIEF_PITCHER"
+        ],
+        593974
+    ],
+    "parker mushinski": [
+        "parker-mushinski-19951122",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656786
+    ],
+    "jay jackson": [
+        "jay-jackson-19871027",
+        [
+            "RELIEF_PITCHER"
+        ],
+        543351
+    ],
+    "jacob degrom": [
+        "jacob-degrom-19880619",
+        [
+            "STARTING_PITCHER"
+        ],
+        594798
+    ],
+    "javier baez": [
+        "javier-baez-19921201",
+        [
+            "SHORTSTOP"
+        ],
+        595879
+    ],
+    "patrick wisdom": [
+        "patrick-wisdom-19910827",
+        [
+            "FIRST_BASE",
+            "THIRD_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        621550
+    ],
+    "joe jimenez": [
+        "joe-jimenez-19950117",
+        [
+            "RELIEF_PITCHER"
+        ],
+        641729
+    ],
+    "ross stripling": [
+        "ross-stripling-19891123",
+        [
+            "STARTING_PITCHER"
+        ],
+        548389
+    ],
+    "rylan bannon": [
+        "rylan-bannon-19960422",
+        [
+            "THIRD_BASE"
+        ],
+        676625
+    ],
+    "nick anderson": [
+        "nick-anderson-19900705",
+        [
+            "RELIEF_PITCHER"
+        ],
+        623433
+    ],
+    "chris murphy": [
+        "chris-murphy-19980605",
+        [
+            "RELIEF_PITCHER"
+        ],
+        669684
+    ],
+    "drew verhagen": [
+        "drew-verhagen-19901022",
+        [
+            "RELIEF_PITCHER"
+        ],
+        572403
+    ],
+    "jose azocar": [
+        "jose-azocar-19960511",
+        [
+            "OUTFIELD"
+        ],
+        640492
+    ],
+    "hayden wesneski": [
+        "hayden-wesneski-19971205",
+        [
+            "STARTING_PITCHER",
+            "RELIEF_PITCHER"
+        ],
+        669713
+    ],
+    "alex faedo": [
+        "alex-faedo-19951112",
+        [
+            "STARTING_PITCHER"
+        ],
+        656412
+    ],
+    "gary sanchez": [
+        "gary-sanchez-19921202",
+        [
+            "CATCHER"
+        ],
+        596142
+    ],
+    "kyle schwarber": [
+        "kyle-schwarber-19930305",
+        [
+            "OUTFIELD",
+            "DESIGNATED_HITTER"
+        ],
+        656941
+    ],
+    "adrian houser": [
+        "adrian-houser-19930202",
+        [
+            "STARTING_PITCHER"
+        ],
+        605288
+    ],
+    "brusdar graterol": [
+        "brusdar-graterol-19980826",
+        [
+            "RELIEF_PITCHER"
+        ],
+        660813
+    ],
+    "jonny deluca": [
+        "jonny-deluca-19980710",
+        [
+            "OUTFIELD"
+        ],
+        676356
+    ],
+    "kyle muller": [
+        "kyle-muller-19971007",
+        [
+            "STARTING_PITCHER"
+        ],
+        666205
+    ],
+    "caleb kilian": [
+        "caleb-kilian-19970602",
+        [
+            "STARTING_PITCHER"
+        ],
+        668873
+    ],
+    "randy vasquez": [
+        "randy-vasquez-19981103",
+        [
+            "STARTING_PITCHER"
+        ],
+        681190
+    ],
+    "trevor larnach": [
+        "trevor-larnach-19970226",
+        [
+            "OUTFIELD"
+        ],
+        663616
+    ],
+    "elly de la cruz": [
+        "elly-de-la-cruz-20020111",
+        [
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        682829
+    ],
+    "lyon richardson": [
+        "lyon-richardson-20000118",
+        [
+            "STARTING_PITCHER"
+        ],
+        680689
+    ],
+    "jorge mateo": [
+        "jorge-mateo-19950623",
+        [
+            "SHORTSTOP"
+        ],
+        622761
+    ],
+    "j. t. realmuto": [
+        "j-t-realmuto-19910318",
+        [
+            "CATCHER"
+        ],
+        592663
+    ],
+    "seth lugo": [
+        "seth-lugo-19891117",
+        [
+            "STARTING_PITCHER"
+        ],
+        607625
+    ],
+    "everson pereira": [
+        "everson-pereira-20010410",
+        [
+            "OUTFIELD"
+        ],
+        677592
+    ],
+    "wil crowe": [
+        "wil-crowe-19940909",
+        [
+            "RELIEF_PITCHER"
+        ],
+        640444
+    ],
+    "chad smith": [
+        "chad-smith-19950608",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663385
+    ],
+    "nick martinez": [
+        "nick-martinez-19900805",
+        [
+            "RELIEF_PITCHER"
+        ],
+        607259
+    ],
+    "bligh madris": [
+        "bligh-madris-19960229",
+        [
+            "OUTFIELD"
+        ],
+        676632
+    ],
+    "vaughn grissom": [
+        "vaughn-grissom-20010105",
+        [
+            "SHORTSTOP"
+        ],
+        687093
+    ],
+    "kyle farmer": [
+        "kyle-farmer-19900817",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        571657
+    ],
+    "chas mccormick": [
+        "chas-mccormick-19950419",
+        [
+            "OUTFIELD"
+        ],
+        676801
+    ],
+    "matt brash": [
+        "matt-brash-19980512",
+        [
+            "RELIEF_PITCHER"
+        ],
+        666374
+    ],
+    "max kepler": [
+        "max-kepler-19930210",
+        [
+            "OUTFIELD"
+        ],
+        596146
+    ],
+    "luis rengifo": [
+        "luis-rengifo-19970226",
+        [
+            "SECOND_BASE",
+            "THIRD_BASE",
+            "SHORTSTOP",
+            "OUTFIELD"
+        ],
+        650859
+    ],
+    "royce lewis": [
+        "royce-lewis-19990605",
+        [
+            "THIRD_BASE",
+            "SHORTSTOP"
+        ],
+        668904
+    ],
+    "andrew vaughn": [
+        "andrew-vaughn-19980403",
+        [
+            "FIRST_BASE"
+        ],
+        683734
+    ],
+    "tony kemp": [
+        "tony-kemp-19911031",
+        [
+            "SECOND_BASE",
+            "OUTFIELD"
+        ],
+        643393
+    ],
+    "mickey moniak": [
+        "mickey-moniak-19980513",
+        [
+            "OUTFIELD"
+        ],
+        666160
+    ],
+    "kevin ginkel": [
+        "kevin-ginkel-19940324",
+        [
+            "RELIEF_PITCHER"
+        ],
+        656464
+    ],
+    "jackson kowar": [
+        "jackson-kowar-19961004",
+        [
+            "RELIEF_PITCHER"
+        ],
+        663804
+    ],
+    "tyler rogers": [
+        "tyler-rogers-19901217",
+        [
+            "RELIEF_PITCHER"
+        ],
+        643511
+    ],
+    "david peralta": [
+        "david-peralta-19870814",
+        [
+            "OUTFIELD"
+        ],
+        444482
+    ],
+    "harold ramirez": [
+        "harold-ramirez-19940906",
+        [
+            "FIRST_BASE",
+            "DESIGNATED_HITTER"
+        ],
+        623912
+    ]
+}
